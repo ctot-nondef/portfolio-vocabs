@@ -1,0 +1,189 @@
+[
+    {
+        "en": "architect",
+        "de": "Architekt/in"
+    },
+    {
+        "en": "board",
+        "de": "Aufsichtsrat"
+    },
+    {
+        "de": "Auftraggeber/in"
+    },
+    {
+        "en": "author",
+        "de": "Autor/in",
+        "gettyAat": "http://vocab.getty.edu/aat/300025492",
+        "marc21": 700
+    },
+    {
+        "de": "Begrüßung"
+    },
+    {
+        "en": "advisory board",
+        "de": "Beirat"
+    },
+    {
+        "de": "Berater/in"
+    },
+    {
+        "de": "Berufungskommission"
+    },
+    {
+        "en": "participating",
+        "de": "Beteiligte/r"
+    },
+    {
+        "en": "conference reviewer",
+        "de": "Conference Reviewer"
+    },
+    {
+        "en": "designer",
+        "de": "Designer/in",
+        "gettyAat": "http://vocab.getty.edu/aat/300025190"
+    },
+    {
+        "en": "conductor",
+        "de": "Dirigent/in"
+    },
+    {
+        "de": "Einführung"
+    },
+    {
+        "de": "erschienen in"
+    },
+    {
+        "de": "Festivalleiter/in"
+    },
+    {
+        "en": "funding agency",
+        "de": "Förderagentur"
+    },
+    {
+        "de": "Fördergeber/in"
+    },
+    {
+        "en": "photographer",
+        "de": "Fotograf/in"
+    },
+    {
+        "de": "Habilitationskommission"
+    },
+    {
+        "en": "editor",
+        "de": "Herausgeber/in"
+    },
+    {
+        "de": "Illustrator/in"
+    },
+    {
+        "de": "Intendant/in"
+    },
+    {
+        "de": "Intendanz"
+    },
+    {
+        "de": "Interpret/in"
+    },
+    {
+        "de": "Jurymitglied"
+    },
+    {
+        "en": "key note lecture",
+        "de": "Keynote Rede"
+    },
+    {
+        "de": "Kooperationspartner/in"
+    },
+    {
+        "de": "Kritiker/in"
+    },
+    {
+        "de": "Künstler/in"
+    },
+    {
+        "de": "künstlerische/r Leiter/in"
+    },
+    {
+        "en": "curator",
+        "de": "Kurator/in",
+        "gettyAat": "http://vocab.getty.edu/aat/300054277"
+    },
+    {
+        "en": "instructor",
+        "de": "Lehrende"
+    },
+    {
+        "de": "Leitung"
+    },
+    {
+        "de": "Mitglied"
+    },
+    {
+        "en": "presenter",
+        "de": "Moderator/in"
+    },
+    {
+        "en": "musician",
+        "de": "Musiker/in"
+    },
+    {
+        "en": "organiser",
+        "de": "Organisator/in"
+    },
+    {
+        "de": "Performer/in"
+    },
+    {
+        "en": "winner",
+        "de": "Preisträger/in"
+    },
+    {
+        "en": "project lead",
+        "de": "Projektleiter/in"
+    },
+    {
+        "de": "Projektpartner/in"
+    },
+    {
+        "en": "director",
+        "de": "Regisseur/in"
+    },
+    {
+        "de": "Rezensent/in"
+    },
+    {
+        "de": "Teilnehmer/in"
+    },
+    {
+        "de": "Übersetzer/in"
+    },
+    {
+        "de": "Veranstalter/in"
+    },
+    {
+        "en": "granted by",
+        "de": "Vergabe durch"
+    },
+    {
+        "en": "publisher",
+        "de": "Verlag",
+        "gettyAat": "http://vocab.getty.edu/aat/300025574",
+        "gnd": "http://d-nb.info/gnd/4063004-3"
+    },
+    {
+        "de": "Vorsitzende/r"
+    },
+    {
+        "en": "board of directors",
+        "de": "Vorstand"
+    },
+    {
+        "en": "board member",
+        "de": "Vorstandsmitglied"
+    },
+    {
+        "en": "lecturer",
+        "de": "Vortragende/r"
+    }
+]

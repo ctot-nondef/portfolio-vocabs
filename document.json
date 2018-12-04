@@ -1,0 +1,137 @@
+[
+    {
+        "en": "monograph",
+        "de": "Monographie",
+        "gettyAat": "http://vocab.getty.edu/aat/300060417",
+        "d": "Erstauflage eines wiss. Fach- oder Lehrbuchs",
+        "dId": "1"
+    },
+    {
+        "en": "periodical",
+        "de": "Periodikum",
+        "gettyAat": "http://vocab.getty.edu/aat/300026657"
+    },
+    {
+        "de": "Sammelband",
+        "gettyAat": "http://vocab.getty.edu/aat/300391488"
+    },
+    {
+        "de": "Aufsatzsammlung",
+        "gnd": "http://d-nb.info/gnd/4143413-4"
+    },
+    {
+        "de": "Künstlerbuch"
+    },
+    {
+        "de": "Zeitungsbericht"
+    },
+    {
+        "de": "Interview"
+    },
+    {
+        "de": "Zeitungsartikel"
+    },
+    {
+        "de": "Kolumne"
+    },
+    {
+        "de": "Blog"
+    },
+    {
+        "en": "exhibition catalogue",
+        "de": "Ausstellungskatalog",
+        "gettyAat": "http://vocab.getty.edu/aat/300026096",
+        "d": "Kunstkataloge und andere künstl. Druckwerke",
+        "dId": "16"
+    },
+    {
+        "de": "Katalog"
+    },
+    {
+        "de": "Rezension"
+    },
+    {
+        "en": "review",
+        "de": "Kritik",
+        "gettyAat": "http://vocab.getty.edu/aat/300026480"
+    },
+    {
+        "en": "chapter",
+        "de": "Beitrag in Sammelband",
+        "gettyAat": "http://vocab.getty.edu/aat/300311699",
+        "gnd": "http://d-nb.info/gnd/4290552-7",
+        "d": "erstveröffentlichter Beitrag in einem Sammelwerk; proceeding; Beiträge zu Kunstkatalogen…",
+        "dId": "6, 7, 17"
+    },
+    {
+        "en": "article",
+        "de": "Aufsatz",
+        "gettyAat": "http://vocab.getty.edu/aat/300048715",
+        "d": "erstveröffentlichter Beitrag in einer sonstigen wiss. Fachzeitschrift",
+        "dId": "5"
+    },
+    {
+        "en": "article in journal with citation index",
+        "de": "Beitrag in Fachzeitschrift (SCI,  SSCI, A&HCI)",
+        "d": "erstveröffentlichter Beitrag in einer SCI-Fachzeitschrift; …",
+        "dId": "2, 3, 4",
+        "undefined": "http://mjl.clarivate.com/cgi-bin/jrnlst/jlresults.cgi?PC=D"
+    },
+    {
+        "en": "master thesis",
+        "de": "Masterarbeit",
+        "gettyAat": "http://vocab.getty.edu/aat/300077723"
+    },
+    {
+        "de": "Diplomarbeit",
+        "gettyAat": "http://vocab.getty.edu/aat/300028028"
+    },
+    {
+        "en": "doctoral dissertation",
+        "de": "Dissertation",
+        "gettyAat": "http://vocab.getty.edu/aat/300312076"
+    },
+    {
+        "en": "bachelor thesis",
+        "de": "Bachelorarbeit",
+        "gettyAat": "http://vocab.getty.edu/aat/300028028"
+    },
+    {
+        "en": "essay",
+        "de": "Essay"
+    },
+    {
+        "de": "Studie"
+    },
+    {
+        "en": "conference paper",
+        "de": "Tagungsbericht"
+    },
+    {
+        "de": "Kommentar"
+    },
+    {
+        "de": "Fanzine"
+    },
+    {
+        "de": "Buchreihe"
+    },
+    {
+        "de": "Schriftenreihe"
+    },
+    {
+        "de": "Edition"
+    },
+    {
+        "de": "Drehbuch"
+    },
+    {
+        "de": "Libretto"
+    },
+    {
+        "de": "Gutachten"
+    },
+    {
+        "de": "Clipping"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "de": "Fernsehbericht"
+    },
+    {
+        "en": "documentary film",
+        "de": "Dokumentation",
+        "gettyAat": "http://vocab.getty.edu/aat/300375156"
+    },
+    {
+        "de": "Spielfilm"
+    },
+    {
+        "de": "Film"
+    },
+    {
+        "de": "Fernsehbeitrag"
+    },
+    {
+        "de": "TV-Beitrag"
+    },
+    {
+        "de": "Kurzfilm"
+    },
+    {
+        "de": "Videoaufzeichnung",
+        "dFeldArt": "Künstlerischer Ton-, Bild-, Datenträger",
+        "dArtId": 9,
+        "dLeistungstypid": 10
+    }
+]

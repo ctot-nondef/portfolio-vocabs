@@ -1,0 +1,1083 @@
+@prefix : <http://base.uni-ak.ac.at/recherche/keywords/> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix luc: <http://www.ontotext.com/owlim/lucene#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+<http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Techniques"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "base Angewandte keywords"@en, "base Angewandte Schlagwörter"@de;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-16T13:55:48.990Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_078aa636> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerischer Gebrauch von CD-ROMs"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CD-ROM"@de, "CD-ROM"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300196583>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Information Forms"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026029>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_0ace630d> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Gestaltung von Innenräumen inklusive Raumplanung, Konstruktion und Aufbau"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Innenarchitektur"@de, "interior design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054184>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Disciplines"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054134>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_0f741d66> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Technik des Klebens von Papier, Gewebe, Fotografien, u.ä. auf einer glatten Oberfläche. Wenn das Objekt dreidimensionale Charakteristik annimmt, spricht man von Assemblage. Wenn die zusammengefügten Teile eine neues Bild ergeben, spricht man von Montage"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Collage"@de, "collage"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300138699>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_1052805a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Zeichnungen oder Muster auf menschlicher Haut durch Einbringen von Farbstoffen in das Hautgewebe"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tattoo"@de, "tattoo"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015614>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visual Works"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300179869>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_1081fb7e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Interaktion von Benutzer und Computerprogramm"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Interaktive Kunst"@de, "interactive art"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_1d5ec0e9>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300237781>, <http://d-nb.info/gnd/4557518-6>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-11-10T15:13:26.342Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_1d5ec0e9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Attributes and Properties"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300123559>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_1245ee09> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "[öffentliche] Dar-, Vorstellung von etwas"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Moderation"@de, "presentation"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_146e160e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "alle visuellen Aspekte einer Bühnenvorführung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bühnenbild"@de, "theater design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054190>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_14c4f02f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "ein selbst ein räumliches Gefüge bildendes Arrangement von Objekten"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rauminstallation"@de, "spatial installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_15edc96d> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Tiefdruckverfahren, in dem mittels einer Stahlspitze in eine mit Firnis versiegelte Metallplatte gezeichnet wird; unter Säureeinwirkung werden entlang der freigelegten Firnis Linien in die Metallplatte geätzt."@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Radierung"@de, "etching"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053241>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Processes and Techniques"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053001>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_18df27f9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Serie von Bildern, die auf fotographischen oder Videoband festgehalten werden, und so schnell vorgeführt werden, daß der Eindruck einer Bewegung entsteht"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Film"@de, "motion picture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300136900>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_18ffa6e3> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Furnishings"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300037335>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_195eb13b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "direktes, unmittelbares Aktionsereignis, vor allem in Deutschland und Österreich"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aktion"@de, "action"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300185409>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_200111d5> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "jemand, der im Auftrag eines Staates, einer Interessengruppe o.Ä. unterhandelt"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kommissär_in"@de, "commissar"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_20b356a2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Arbeiten, die den Boden des Ausstellungsraums involvieren"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenarbeit"@de, "floor piece"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300185470>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_2103ca0f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "skulpturale Installationen auf der Wandoberfläche, bei Malerei \"Wandmalerei\" verwenden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wandarbeit"@de, "wall piece"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300184960>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_2126eaff> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Anordnen von Bild und Schrift auf zumeist kommerziellen Produkten wie Büchern, Plakaten, websites"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Grafikdesign"@de, "graphic design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054181>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_2225a5f2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Fotografischer Ausarbeitungsprozess unter Umgehung der Kamera; Gegenstände werden direkt auf das Papier gelegt und belichtet."@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotogramm"@de, "photogram"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127296>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_22972885> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Ort, an dem eine Veranstaltung stattfindet"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Veranstaltungsort"@de, "venue"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_24ce4fb0> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Arbeiten, die Licht in Skulpturen, Landschafts- oder Siedlungsraum verwenden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichtinstallation"@de, "light installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4614008-6>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_27d9b1b7> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Technik der Übertragung eines Bildes - üblicherweise von einer Platte, einem Block oder Stein auf üblicherweise Papier oder Textil"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Druckgrafik"@de, "printing"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053319>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_28b06a51> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerische Arbeiten, die ihren eigenen Entstehungsprozess in der Zeit involvieren; in den 90er Jahren beziehen sich prozessuale Erkundungen auf soziale Interaktionen oder das Feld der künstlichen Intelligenz"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "prozessuale Kunst"@de, "process art"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_997d5336>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300022209>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_997d5336> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Styles and Periods"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_2a69570f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Design von industriell hergestellten Produkten"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Produktdesign"@de, "industrial design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054183>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_2fcad122> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Object Groupings and Systems"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300241489>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_30518b31> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Videokunst"@de, "Video art"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4188229-5>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_30b8b3f1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Keramik"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Keramik"@de, "ceramics"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_cae32c06>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300151343>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_cae32c06> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Objektgattungen"@de, "Object Genres"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300185711>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_3215a3e9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Drehbuch, Folge von Skizzen und Texten, dienen der Umsetzung in audiovisuelle Handlungsformate"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "storyboard"@de, "storyboard"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300213156>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_329c7c34> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Sammelbegriff für nicht weiter spezifizierte Drucktechniken"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Drucktechniken"@de, "printing processes"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300199635>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_333bb3df> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "optische Effekte durch digitale Bearbeitung des Videobildes herstellen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Visual"@de, "visual effects"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300263881>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_343281e7> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Bildaufzeichnung auf mit magnetischen Partikeln beschichteter Bandfolie (MAZ-Band)"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Video"@de, "video"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054153>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_384d9ee6> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Reliefdruck mittels eines Linoleumblocks"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Linolschnitt"@de, "linocut"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300041393>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_39fb1c57> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerischer Gebrauch des Internet"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunst im Internet"@de, "internet art"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4571611-0>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_3b3644c6> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Physical and Mental Activities"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300222468>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_3cc7a082> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Kombination verschiedenartiger Elemente zu einer dreidimensionalen Bildgebung, ursprünglich im Sinn einer erweiterten Malerei"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Assemblage"@de, "assemblage"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300138696>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_3cc91022> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "verantwortliche künstlerische Leitung bei der Gestaltung eines Werkes für eine Aufführung, Sendung o.Ä.; Spielleitung; Inszenierung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Künstlerische Leitung"@de, "artistic director"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_557c1c5a>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/792.023>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_557c1c5a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Künste und Unterhaltung"@de;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_3edd5d11> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Rechtsvorschriften bezüglich Reproduktion, Publikation und Verkauf von Kunstwerken"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Copyright"@de, "copyright"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_640cba6b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300055598>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_640cba6b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerischer Tätigkeit assoziierte Konzepte"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Assoziierte Konzepte"@de, "Associated Concepts"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300055126>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_401dcc08> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerische Manifestationen, die sich in einem kommentierenden oder verändernden Bezug zum sie umgebenden öffentlichen Raum verstehen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunst im öffentlichen Raum"@de, "art in public space"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_42422f56> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Formgebung durch Linienführung auf einer ebenen Fläche, meist Papier"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeichnung"@de, "drawing"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054196>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_44bef6ca> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Einbettung der Videopräsentation in einen installativen Kontext"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Videoinstallation"@de, "video installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_30518b31>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4347940-6>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_459f64c1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Costume"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300209261>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_470d0d18> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Kunstwerke mittels Fotokopiertechnik herstellen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Copy Art"@de, "copy art"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300121438>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_48b179bd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerische Verfahren, die auf Klangereignissen beruhen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Musik"@de;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4d4d7033> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Schwarz-Weiß-Fotografie"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwarz-Weiß-Fotografie"@de, "black-and-white photography"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300162056>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4df29695> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerischer Gebrauch des Radios, oft im Sinne von Audioinstallation"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Radiokunst"@de, "radio"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_2fcad122>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300249989>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4f316a2e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Artefakte, die vornehmlich als Schmuck getragen werden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Schmuck"@de, "jewellery"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_459f64c1>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300209286>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4f721fef> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Hochdruckverfahren durch Erstellen eines Reliefs in einem Holzblock"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Holzschnitt"@de, "woodcut"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053296>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_54256edc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Kombination von Fotografien zu neuen, vergleichsweise einheitlichen Bildern. Wenn weniger einheitliche Bilder entstehen, spricht man von Collage."@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotomontage"@de, "photomontage"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300134699>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_56290735> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Aufbringen von Bildern oder Mustern auf Oberflächen mittels kleiner farbiger Steine oder Glasteile"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mosaik"@de, "mosaic"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300138684>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_56bfde71> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Design von Kleidung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mode"@de, "fashion design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300138708>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_597f0c85> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "periodisch erscheinende Druckwerke mit Beiträgen mehrerer Autoren"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeitschrift"@de, "magazine"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300215389>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_5a073903> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Handlung des Künstlers in zeitlich befristetem Rahmen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aktionskunst"@de, "actionist art"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_5d00d208> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "events"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054722>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_5ed2cc3f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Präsenntation von fotografischen Arbeiten in skulpturaler oder installativer Form"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotoinstallation"@de, "photo installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4395048-6>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_5fe2c12e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "das Abreissen von Plakaten. Oft werden die dadurch hervortretenden tieferliegenden Schichten mit in die Bildaussage einbezogen. Das Resultat einer Décollage heißt \"affiches lacerérées\""@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Décollage"@de, "decollage"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053605>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_60f3c714> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "kraft Regierungsautorität geprägte Metallstücke, die als Geld benutzt werden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "coin"@en, "Münze"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_ff15b859>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300037222>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-10T12:18:13.414Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_ff15b859> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tauschmedien"@de, "exchange media"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300037221>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_662f8587> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Standfoto eines Videos oder Films"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Videostill"@de, "still photograph"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4182889-6>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_667fd15a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "deckende wasserlösliche Farben"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gouache"@de, "gouache"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300078928>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_674687e9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Kombination verschiedener Mal- oder Zeichnen-Techniken"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Mischtechnik"@de, "mixed technique"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300179099>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_695fdd4f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "benutzt für Kunstwerke im Rahmen der Errichtung oder Einrichtung von Gebäuden; in Deutschland und Österreich meist aufgrund einschlägiger gesetzlicher Vorschriften"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunst am Bau"@de, "architecture related art"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4114334-6>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_697fbf30> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Partner bei einer wirtschaftlichen Unternehmung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kooperationspartner_in"@de, "co(-)operation partner"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_699b3d9e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Maltechnik, bei der die Farbe mittels eines Spray-Mechanismus aufgebracht wird"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Airbrush"@de, "airbrushing"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053405>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_6c9ed1b9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerische Verfahren, die Vokal- oder Instrumentalklänge involvieren"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "music"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054146>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_6cea989a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Herausarbeiten von Bildinhalten in drei Dimensionen in einem einzelnen Objekt, für mehrteilige Objekte \"Installation\" verwenden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Skulptur"@de, "sculpture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047090>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_70712aeb> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Implementierung von Strukturen durch elektronische Datenverarbeitung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Computerprogramm"@de, "software"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028566>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_70cd946b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Druckverfahren mittels Durchpressen von Farbe durch ein Netz, das mit verschiedenerlei Schablonen abgedeckt werden kann"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Siebdruck"@de, "screen printing"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053281>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_71cf02ac> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Tätigkeitsfelder"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Funktionen"@de, "functions"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300138088>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_740933f4> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "öffentlich vorgetragener Text zu einem bestimmten Thema"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Vortrag"@de, "lecture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026673>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_7cd1bfd5> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Erstellung oder Bearbeitung von Bildern mittels Computerprogrammen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "digitale Bildbearbeitung"@de, "digital imaging"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300237903>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_7e1a18c4> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "in Weiterentwicklung der Videoinstallation eine Installationsform, die verschiedene elektronische Medien miteinander verbindet"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Medieninstallation"@de, "media installation"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_7ecb784b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "künstlerischer Gebrauch des Fernsehns"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fernsehen"@de, "television"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_2fcad122>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300249920>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_7ed3b9b5> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "auf eine Wand aufgebrachte Zeichnung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wandzeichnung"@de, "mural drawing"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_811c017c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "ausgeschnittene Formen oder Gestalten"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Scherenschnitt"@de, "cutout"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_cae32c06>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300257411>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_82ec3799> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Leitung und Management von Sammlungen, Ausstellungen und Forschungsaktivitäten"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kurator_in"@de, "Curator"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_71cf02ac>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054277>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_8349892c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Kunstwerke, die das Versenden von Objekten mit Postunternehmen involvieren"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "mail art"@de, "mail art"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300121462>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_86701905> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "mündlicher Gedankenaustausch in Rede und Gegenrede über ein bestimmtes Thema"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Gespräch"@de, "talk"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_8a1a9fd7> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "finanzielle oder materielle Unterstützung durch Unternehmen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sponsoring"@de, "sponsoring"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_71cf02ac>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300251295>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_8ab991d9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "schriftliche Kommunikationsform"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Textkunst"@de, "text art"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300263751>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-13T10:00:26.220Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_8c6eaf5c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "öffentlich zugänglicher Raum"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "public space"@en, "öffentlicher Raum"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c3086c5a>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300263422>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-10T11:46:56.725Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c3086c5a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Open Spaces and Site Elements"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300139081>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_8db2ad8c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Formgebung durch Aufbringen von Farben jeder Art auf einer Oberfläche"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Malerei"@de, "painting"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054216>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_8e414bd9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Herstellen von Formen durch Linienführung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zeichnerische Techniken"@de, "drawing techniques"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300034698>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_90036e2b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "fotomechanisches Verfahren, das mittels eines Dias eine Platte ätzt, die wiederum gedruckt wird"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotogravure"@de, "photogravure"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053207>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_91243f47> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Die Gesamtheit des Studiums und der Ausübung des Filmmachens"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Filmkunst"@de, "film"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054141>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_91ccf7fc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "in den 50er und 60er Jahren entwickelte theatralische Aktionskunst, oft unter Einbeziehung des Publikums"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Happening"@de, "happening"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300479350>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_9502218e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Das Zusammenfügen von Bildteilen zu neuen Bildern. Wenn weniger einheitliche Bilder entstehen, spricht man von Collage."@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montage"@de, "montage"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300178672>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_96fb9ff9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "dreidimensionale Arbeiten, die so bereits vorgefundene oder industriell gefertigte Materialien verwenden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Objekt"@de, "object sculpture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047199>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_9b3bd50e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Musik, die elektrischen Strom als Komponente der Klangerzeugung nutzt"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektronische Musik"@de, "electronic music"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4014355-7>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_9cb80fe6> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Organisation und Vermittlung der Tätigkeit von Personen, Institutionen oder Ausstellungen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation"@de, "organisation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_71cf02ac>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054594>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a013c486> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "in SWD \"elektronische Kunst\" --> Arbeiten, die elektronische Medien verwenden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Medienkunst"@de, "media art"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4113418-7>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a11ec3a4> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "bildhafte Computerausdrucke oder -darstellungen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Computergrafik"@de, "computer graphics"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053170>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a3ab6b4b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Arbeiten, die den natürlichen oder industriell veränderten Landschaftsraum involvieren"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Land Art"@de, "environmental art"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300121451>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a41b4b94> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Erzeugen von Abbildern durch lichtempfindliche Materialien"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "photographic processes"@en, "fotografische Verfahren"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300149146>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-10T12:06:22.699Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a499fb1e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Arbeiten, die Klänge involvieren, aber stärker der bildenden als der aufführenden Kunst zuzurechnen sind; für Konzerte \"Musik\" verwenden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Audioinstallation"@de, "sound sculpture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047267>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a59f6762> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Färbetechnik unter Verwendung von Wachs als Abdeckung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Batik"@de, "batik"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053050>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a6b68ddd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "das Vorlesen (aus dem Werk eines Autors, einer Autorin als Veranstaltung)"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lesung"@de, "reading"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_3b3644c6>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300248178>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-14T08:32:51.648Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_a77edd15> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Textkunst"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Literatur"@de, "literature"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300180362>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_ac80658b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "meist großformatige gedruckte Ankündigungen von Ereignissen, auch zum Promoten von künstlerischen oder öffentlich/politischen Intentionen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Plakat"@de, "poster"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027221>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_ac9b702e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "ein in den Ausstellungsraum greifendes Arrangement von Objekten"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Installation"@de, "installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047896>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_b1b2086c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Rede anläßlich einer Ausstellungseröffnung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Rede"@de, "speech"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_5d00d208>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_b1ccdfdc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Farbfotografie"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Farbfotografie"@de, "colour photography"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300134530>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_b5f20092> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Herausarbeiten einer dreidimensionalen Oberfläche aus einer Ebene"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Relief"@de, "relief"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047230>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_b6cf4a65> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "maßstäblich verkleinerte Repräsentation von Objekten oder Strukturen, meist dreidimensional"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Modell"@de, "model"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047753>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_b87b463f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Materials"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_b9e6beb5> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Einbeziehen erweiterter sozialer Konzepte in die künstlerische Arbeit, oft unter kritischer Reflexion auf das Kunstfeld und unter Verzicht auf das Herstellen eines Artefakts, stattdessen Dokumentationen, Fotografien, Konzepte"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Konzeptkunst"@de, "conceptual"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_997d5336>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300069446>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_bbdbfbb1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Einmaliges Abdrucken einer Farbzeichnung oder -fläche auf eine andere Oberfläche"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Monotypie"@de, "monotype"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053277>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_bc728315> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "digitale Bildbearbeitung mit dem Ziel, bewegte Bilder herzustellen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Computeranimation"@de, "computer animation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053161>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c01511f0> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Schriftliche oder piktographische Darstellungen auf Wänden, seit den 60er Jahren vornehmlich im öffentlichen Raum, auch unter dem Begriff \"writer\""@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Graffiti"@de, "graffiti"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015613>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c1ece6ed> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Übertragen einer reliefartigen Oberfläche auf Papier mittels Abreibens mit einem Stift oder Farbballen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Frottage"@de, "frottage"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053430>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c32c4d4a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "meist hängende, mit figürlichen oder ornamentalen Darstellungen versehene Teppiche"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Tapisserie"@de, "tapestry"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_18ffa6e3>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300205002>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c41cee14> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "jüngere elektronische Medien"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Elekronische Medien"@de, "electronic media"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4151918-8>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c4dd2683> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "vornehmlich soziale Intervention mit dem Ziel, soziale Strukturen zu verändern oder kenntlich zu machen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Interventionistische Kunst"@de, "interventionist art"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_c82e0c2f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Herstellen fotografischer Bilder durch Belichtung von lichtempfindlichem Film, Papier udgl."@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Fotografie"@de, "photography"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054225>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_ca863bea> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Auswahl von Werken, Künstlern oder Architekten durch ein Gremium"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Jury"@de, "Jury"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_5d00d208>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300069616>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_cb7243fb> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Gestaltung von Gegenständen, meist zum täglichen oder vorübergehenden Gebrauch"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Design"@de, "design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054171>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_cc2698a5> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "der Objektkunst zugehörig, das Transferieren von industriell hergestellten Objekten in einen künstlerischen Kontext"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Ready-Made"@de, "ready-made"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300185153>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_cd6d8e8d> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "alle die öffentlichen Kulturverwaltungen betreffenden Inhalte"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kulturpolitik"@de, "cultural politics"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4033581-1>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_cea14b2c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "kurze Videosequenzen, oft in Zusammenhang mit Musik"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Videoclip"@de, "video clip"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4192639-0>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d0022b72> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Fotografische Ausarbeitung mit Blautoner"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Zyanotypie"@de, "cyanotype"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300134811>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d467c858> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "die Gesamtheit der in drei Dimensionen dargestellten Bildinhalte"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Skulpturale Kunst"@de, "sculptural art"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d4e12f04> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Die Kunst und die Lehre des Entwerfens von Gebäuden"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Architektur"@de, "architecture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054156>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d519fe8f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "visuelle Anordnung sprachlicher Elemente"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "konkrete Poesie"@de, "concrete poetry"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_640cba6b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300055932>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d52f7332> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Sofortbildkamerafotografie"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Polaroid"@de, "Polaroid (TM) film"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_b87b463f>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127373>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d6bdfddd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "eine Serie von Zeichnungen, die auf Film fotografiert oder direkt auf Film hergestellt wird mit dem Effekt der Simulation von Bewegung"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Animationsfilm"@de, "animated cartoon"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300263512>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d800113e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "theatralische Aktionskunst, die nicht unmittelbar die Einbeziehung des Publikums intendiert"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Performance"@de, "performance"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300121445>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_da91b18f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Design von Kleidung zu typischen Anlässen oder Theateraufführungen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kostüm"@de, "costume design"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4ede3f3d>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300163423>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_df944e2c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "transparentes photographisches Positiv, das projiziert werden kann."@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diaprojektion"@de, "slide"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300128371>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_e55ab963> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Bildergeschichten, meist in Serienform, Dialog und Texte in Sprechblasen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Comic"@de, "comic"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015635>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_e6910ba2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "anfänglich für die räumlichen Relikte eines Happenings, später begehbare Raumgestaltungen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Environment"@de, "environment"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300185245>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_e6d6948c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "schriftliche Kommunikationsform"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Text"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300263751>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_e95cd96c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Projektion eines Films unter Involvierung des Projektionsraumes"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Filmprojektion"@de, "film installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_edb88c91> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "öffentlich geführtes Gespräch über ein vorgegebenes Thema, meist in diskursiven oder argumentativen Zusammenhang"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Diskussion"@de, "discussion"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_eeed11e1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "meist großformatige Installation von Text im Ausstellungsraum"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Textinstallation"@de, "text installation"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f0e1274c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "spezielle Variante der Konzeptkunst, die primär das Kunstwerk und das es umgebende soziale Gefüge thematisiert"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontextuelle Kunst"@de, "context art"@en;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4486679-3>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f10378ee> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Computerausdruck"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Computerdruck"@de, "printouts"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_9ccda5cf>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028467>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f29e926c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "auf eine Wand aufgebrachte Malerei"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Wandmalerei"@de, "mural painting"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_c29bb34b>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033644>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f38c33a1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "wasserlösliche Farben"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquarell"@de, "aquarelle"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_01a9b702>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053363>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f475c8f7> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Gegenstände, die aus Textilmaterialien hergestellt sind"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Textilarbeit"@de, "textile work"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_cae32c06>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300014063>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f661ffd8> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Flachdruckverfahren, in dem eine fetthaltige Substanz auf einen Stein aufgebracht wird; nach einer chemischen Behandlung (Ätzung) haftet die Farbe nur auf den gefetten Stellen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Lithographie"@de, "lithography"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300053271>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f9c8040d> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Kombination verschiedener Bildinhalte miteineinander mit dem Ziel, entweder die distincten Inhalte einander zu konfrontieren oder aus disparaten Inhalten neue Inhalte herzustellen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Montagetechniken"@de, "montage techniques"@en;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_fb13024e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Vervielfältigung oder auch industrielle Fertigung eines Objekts oder einer Objektgruppe, oft mit der Intention, die Einmaligkeit des Kunstwerkes in Frage zu stellen"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Edition"@de, "edition"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_2fcad122>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300121294>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_ff2a2a15> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#definition> "Ergebnis eines erweiterten Kunstbegriffs seit den 60er/70er Jahren: Einbeziehen erweiterter sozialer Konzepte in die künstlerische Arbeit, oft unter kritischer Reflexion auf das Kunstfeld und unter Verzicht auf das Herstellen eines Artefakts, stattdessen Dokumentationen, Fotografien, Konzepte"@de;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Konzeptuelle Kunst"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_997d5336>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300069446>;
+    <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_55c7b84a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Netzkunst"@de, "Netart"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_1081fb7e>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://d-nb.info/gnd/4571611-0>;
+    <http://purl.org/dc/terms/created> "2017-11-10T15:14:21.426Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-11-10T15:16:34.962Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_ebc13ae4> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "acrylic (plastic)"@en, "Acryl"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_b87b463f>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300014426>;
+    <http://purl.org/dc/terms/created> "2017-11-10T15:56:44.781Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-11-10T15:58:12.469Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_42bab43b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "tempera"@en, "Tempera"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_b87b463f>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015062>;
+    <http://purl.org/dc/terms/created> "2017-11-10T15:59:07.269Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-11-10T16:00:27.988Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_3f543848> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "oil (organic material)"@en, "Öl"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_b87b463f>;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300014254>;
+    <http://purl.org/dc/terms/created> "2017-11-10T16:02:45.787Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2017-11-10T16:04:38.878Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_f49b9dfb> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/recherche/keywords/conceptScheme_cd3d9f29>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "still photography"@en, "Standfotografie"@de;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/recherche/keywords/c_4c2f14d8>;
+    <http://purl.org/dc/terms/created> "2018-08-10T12:16:54.131Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-08-10T12:17:18.825Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_4219e370> <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_9767bb61> <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_9d9a6551> <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d63a690c> <http://purl.org/dc/terms/created> "2017-09-09T09:09:20.170Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/recherche/keywords/c_d8ea4d9d> <http://purl.org/dc/terms/created> "2018-08-10T12:09:14.903Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.

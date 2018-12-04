@@ -1,0 +1,117 @@
+@prefix : <http://base.uni-ak.ac.at/recherche/keywords/> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix luc: <http://www.ontotext.com/owlim/lucene#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+<http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "PortfolioThesaurus"@en;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:31:00.512Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "General Labels"@en, "Allgemeine Feldnamen"@de;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:32:54.461Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-12-03T14:34:24.893Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Werk"@de, "Work"@en;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:35:01.597Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-12-03T14:42:21.862Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Document"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:37:03.493Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_8de00495> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Video"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:37:13.225Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Image"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:37:21.065Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Audio"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:37:26.404Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Event"@en, "Ereignis"@de;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:37:45.541Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-12-03T14:43:27.794Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_b04cb4b9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Exhibition"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:38:09.778Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_f3947789> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Conference"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:38:16.227Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_8d7759a8> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Concert"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:38:28.163Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_da826a8a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Sculpture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:44:15.292Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Architecture"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:44:26.805Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_9834ea34> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Performance"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:44:39.565Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_4cb5836d> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Workshop"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:45:04.213Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_0f02b791> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Festival"@en;
+    <http://www.w3.org/2004/02/skos/core#broader> <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:45:19.493Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_cdf3e353> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Material"@en;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:47:32.610Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://purl.org/dc/terms/modified> "2018-12-03T14:48:17.424Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_1509c3a7> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Format"@en;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:47:58.427Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_0829594c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Role"@en;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:48:56.625Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_b839fbb7> a <http://www.w3.org/2004/02/skos/core#Concept>;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Discipline"@en;
+    <http://purl.org/dc/terms/created> "2018-12-03T14:50:25.088Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>.

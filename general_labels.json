@@ -1,0 +1,146 @@
+[
+    {
+        "en": "title",
+        "de": "Titel",
+        "gettyAat": "http://vocab.getty.edu/aat/300417209",
+        "marc21": 245
+    },
+    {
+        "en": "subtitle",
+        "de": "Untertitel",
+        "gettyAat": "http://vocab.getty.edu/aat/300312006"
+    },
+    {
+        "en": "text",
+        "de": "Text",
+        "gettyAat": "http://vocab.getty.edu/aat/300263751"
+    },
+    {
+        "en": "participants",
+        "de": "Mitwirkende",
+        "gettyAat": "?"
+    },
+    {
+        "en": "keywords",
+        "de": "Schlagwörter",
+        "gettyAat": "http://vocab.getty.edu/aat/300311841"
+    },
+    {
+        "en": "city",
+        "de": "Stadt",
+        "gettyAat": "http://vocab.getty.edu/aat/300008389"
+    },
+    {
+        "en": "location",
+        "de": "Ort",
+        "gettyAat": "http://vocab.getty.edu/aat/300248479"
+    },
+    {
+        "en": "location description",
+        "de": "Ortsbeschreibung"
+    },
+    {
+        "en": "date",
+        "de": "Datum",
+        "gettyAat": "http://vocab.getty.edu/aat/300404439"
+    },
+    {
+        "en": "year",
+        "de": "Jahr",
+        "gettyAat": "http://vocab.getty.edu/aat/300379244"
+    },
+    {
+        "en": "opening",
+        "de": "Eröffnung",
+        "gettyAat": "http://vocab.getty.edu/aat/300054769"
+    },
+    {
+        "en": "ISBN",
+        "de": "ISBN",
+        "gettyAat": "http://vocab.getty.edu/aat/300417443"
+    },
+    {
+        "en": "ISSN",
+        "de": "ISSN",
+        "gettyAat": "http://vocab.getty.edu/aat/300417430"
+    },
+    {
+        "en": "DOI",
+        "de": "DOi",
+        "gettyAat": "http://vocab.getty.edu/aat/300417432"
+    },
+    {
+        "en": "URL",
+        "de": "URL",
+        "gettyAat": "http://vocab.getty.edu/aat/300404630"
+    },
+    {
+        "en": "published in",
+        "de": "Erschienen in",
+        "gettyAat": "http://vocab.getty.edu/aat/300048715 ?"
+    },
+    {
+        "en": "volume/issue",
+        "de": "Band",
+        "gettyAat": "http://vocab.getty.edu/aat/300312349 ?"
+    },
+    {
+        "en": "number",
+        "de": "Nummer",
+        "gettyAat": "?"
+    },
+    {
+        "en": "pages",
+        "de": "Seiten",
+        "gettyAat": "http://vocab.getty.edu/aat/300194222"
+    },
+    {
+        "en": "language",
+        "de": "Sprache",
+        "gettyAat": "http://vocab.getty.edu/aat/300386046"
+    },
+    {
+        "en": "material",
+        "de": "Material",
+        "gettyAat": "http://vocab.getty.edu/aat/300010358"
+    },
+    {
+        "en": "format",
+        "de": "Format",
+        "gettyAat": "http://vocab.getty.edu/aat/300266038"
+    },
+    {
+        "en": "edition",
+        "de": "Ausgabe/Auflage"
+    },
+    {
+        "en": "dimensions",
+        "de": "Größe",
+        "gettyAat": "http://vocab.getty.edu/aat/300266036"
+    },
+    {
+        "en": "tv station",
+        "de": "Fernsehsender",
+        "gettyAat": "http://vocab.getty.edu/aat/300005403"
+    },
+    {
+        "en": "radio station",
+        "de": "Radiosender",
+        "gettyAat": "http://vocab.getty.edu/aat/300005402"
+    },
+    {
+        "en": "duration (minutes)",
+        "de": "Dauer",
+        "gettyAat": "http://vocab.getty.edu/aat/300379240"
+    },
+    {
+        "en": "section",
+        "de": "Rubrik",
+        "gettyAat": "?",
+        "gnd": "http://d-nb.info/gnd/4178594-0"
+    },
+    {
+        "en": "title of paper",
+        "de": "Vortragtitel"
+    }
+]
