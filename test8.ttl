@@ -1,0 +1,754 @@
+@prefix ak: <http://base.uni-ak.ac.at/recherche/keywords/>.
+@prefix grddl: <http://www.w3.org/2003/g/data-view#>.
+@prefix wgs: <http://www.w3.org/2003/01/geo/wgs84_pos#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix gn: <http://www.geonames.org/ontology#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix fn: <http://www.w3.org/2005/xpath-functions#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix sesame: <http://www.openrdf.org/schema/sesame#>.
+@prefix luc: <http://www.ontotext.com/owlim/lucene#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix c: <http://example.org/cartoons#>.
+
+<http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232> a skos:ConceptScheme;
+    skos:prefLabel "PortfolioThesaurus"@en;
+    dct:created "2018-12-03T14:31:00.512Z"^^xsd:dateTime.
+<http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca> a skos:Concept;
+    skos:prefLabel "General Labels"@en, "Allgemeine Feldnamen"@de;
+    dct:created "2018-12-03T14:32:54.461Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    dct:modified "2018-12-03T14:34:24.893Z"^^xsd:dateTime.
+<http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f> a skos:Concept;
+    skos:prefLabel "Werk"@de, "Work"@en;
+    dct:created "2018-12-03T14:35:01.597Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    dct:modified "2018-12-03T14:42:21.862Z"^^xsd:dateTime.
+<http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03> a skos:Concept;
+    skos:prefLabel "Document"@en;
+    dct:created "2018-12-03T14:37:03.493Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_8de00495> a skos:Concept;
+    skos:prefLabel "Video"@en;
+    dct:created "2018-12-03T14:37:13.225Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac> a skos:Concept;
+    skos:prefLabel "Image"@en;
+    dct:created "2018-12-03T14:37:21.065Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500> a skos:Concept;
+    skos:prefLabel "Audio"@en;
+    dct:created "2018-12-03T14:37:26.404Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f> a skos:Concept;
+    skos:prefLabel "Event"@en, "Ereignis"@de;
+    dct:created "2018-12-03T14:37:45.541Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    dct:modified "2018-12-03T14:43:27.794Z"^^xsd:dateTime.
+<http://base.uni-ak.ac.at/portfolio/cv/c_b04cb4b9> a skos:Concept;
+    skos:prefLabel "Exhibition"@en;
+    dct:created "2018-12-03T14:38:09.778Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_f3947789> a skos:Concept;
+    skos:prefLabel "Conference"@en;
+    dct:created "2018-12-03T14:38:16.227Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_8d7759a8> a skos:Concept;
+    skos:prefLabel "Concert"@en;
+    dct:created "2018-12-03T14:38:28.163Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_da826a8a> a skos:Concept;
+    skos:prefLabel "Sculpture"@en;
+    dct:created "2018-12-03T14:44:15.292Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50> a skos:Concept;
+    skos:prefLabel "Architecture"@en;
+    dct:created "2018-12-03T14:44:26.805Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_9834ea34> a skos:Concept;
+    skos:prefLabel "Performance"@en;
+    dct:created "2018-12-03T14:44:39.565Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_9f69851f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_4cb5836d> a skos:Concept;
+    skos:prefLabel "Workshop"@en;
+    dct:created "2018-12-03T14:45:04.213Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_0f02b791> a skos:Concept;
+    skos:prefLabel "Festival"@en;
+    dct:created "2018-12-03T14:45:19.493Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_51f9b43f>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_cdf3e353> a skos:Concept;
+    skos:prefLabel "Material"@en;
+    dct:created "2018-12-03T14:47:32.610Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    dct:modified "2018-12-03T14:48:17.424Z"^^xsd:dateTime.
+<http://base.uni-ak.ac.at/portfolio/cv/c_1509c3a7> a skos:Concept;
+    skos:prefLabel "Format"@en;
+    dct:created "2018-12-03T14:47:58.427Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_0829594c> a skos:Concept;
+    skos:prefLabel "Role"@en;
+    dct:created "2018-12-03T14:48:56.625Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_b839fbb7> a skos:Concept;
+    skos:prefLabel "Discipline"@en;
+    dct:created "2018-12-03T14:50:25.088Z"^^xsd:dateTime;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:topConceptOf <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_title_of_paper> a skos:Concept;
+    skos:prefLabel "title of paper"@en, "Vortragtitel"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_section> a skos:Concept;
+    skos:prefLabel "section"@en, "Rubrik"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://d-nb.info/gnd/4178594-0>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_duration_(minutes)> a skos:Concept;
+    skos:prefLabel "duration (minutes)"@en, "Dauer"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379240>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_radio_station> a skos:Concept;
+    skos:prefLabel "radio station"@en, "Radiosender"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300005402>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_tv_station> a skos:Concept;
+    skos:prefLabel "tv station"@en, "Fernsehsender"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300005403>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_dimensions> a skos:Concept;
+    skos:prefLabel "dimensions"@en, "Größe"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300266036>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_edition> a skos:Concept;
+    skos:prefLabel "edition"@en, "Ausgabe/Auflage"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_format> a skos:Concept;
+    skos:prefLabel "format"@en, "Format"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300266038>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_material> a skos:Concept;
+    skos:prefLabel "material"@en, "Material"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300010358>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_language> a skos:Concept;
+    skos:prefLabel "language"@en, "Sprache"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300386046>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_pages> a skos:Concept;
+    skos:prefLabel "pages"@en, "Seiten"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300194222>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_number> a skos:Concept;
+    skos:prefLabel "number"@en, "Nummer"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_volume/issue> a skos:Concept;
+    skos:prefLabel "volume/issue"@en, "Band"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300312349>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_published_in> a skos:Concept;
+    skos:prefLabel "published in"@en, "Erschienen in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300048715>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_URL> a skos:Concept;
+    skos:prefLabel "URL"@en, "URL"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300404630>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_DOI> a skos:Concept;
+    skos:prefLabel "DOI"@en, "DOi"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417432>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_ISSN> a skos:Concept;
+    skos:prefLabel "ISSN"@en, "ISSN"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417430>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_ISBN> a skos:Concept;
+    skos:prefLabel "ISBN"@en, "ISBN"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417443>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_opening> a skos:Concept;
+    skos:prefLabel "opening"@en, "Eröffnung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300054769>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_year> a skos:Concept;
+    skos:prefLabel "year"@en, "Jahr"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300379244>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_date> a skos:Concept;
+    skos:prefLabel "date"@en, "Datum"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300404439>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_location_description> a skos:Concept;
+    skos:prefLabel "location description"@en, "Ortsbeschreibung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_location> a skos:Concept;
+    skos:prefLabel "location"@en, "Ort"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300248479>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_city> a skos:Concept;
+    skos:prefLabel "city"@en, "Stadt"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300008389>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_keywords> a skos:Concept;
+    skos:prefLabel "keywords"@en, "Schlagwörter"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300311841>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_participants> a skos:Concept;
+    skos:prefLabel "participants"@en, "Mitwirkende"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_text> a skos:Concept;
+    skos:prefLabel "text"@en, "Text"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300263751>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_subtitle> a skos:Concept;
+    skos:prefLabel "subtitle"@en, "Untertitel"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300312006>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_title> a skos:Concept;
+    skos:prefLabel "title"@en, "Titel"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_d8fb79ca>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417209>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Lesung> a skos:Concept;
+    skos:prefLabel "Lesung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Talk> a skos:Concept;
+    skos:prefLabel "Talk"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vortrag> a skos:Concept;
+    skos:prefLabel "Vortrag"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Veranstaltung> a skos:Concept;
+    skos:prefLabel "Veranstaltung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Tagung> a skos:Concept;
+    skos:prefLabel "Tagung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Symposium> a skos:Concept;
+    skos:prefLabel "Symposium"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Präsentation> a skos:Concept;
+    skos:prefLabel "Präsentation"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Konferenzteilnahme> a skos:Concept;
+    skos:prefLabel "Konferenzteilnahme"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Keynote> a skos:Concept;
+    skos:prefLabel "Keynote"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_f3947789>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Statik> a skos:Concept;
+    skos:prefLabel "Statik"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Design> a skos:Concept;
+    skos:prefLabel "design"@en, "Design"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Entwurf> a skos:Concept;
+    skos:prefLabel "draft"@en, "Entwurf"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Gebäudeentwurf> a skos:Concept;
+    skos:prefLabel "Gebäudeentwurf"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Struktur> a skos:Concept;
+    skos:prefLabel "structure"@en, "Struktur"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Bau> a skos:Concept;
+    skos:prefLabel "construction"@en, "Bau"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Gebäude> a skos:Concept;
+    skos:prefLabel "building"@en, "Gebäude"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_8da76c50>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Rundfunkausstrahlung> a skos:Concept;
+    skos:prefLabel "Rundfunkausstrahlung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Hörbuch> a skos:Concept;
+    skos:prefLabel "audio book"@en, "Hörbuch"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Hörspiel> a skos:Concept;
+    skos:prefLabel "Hörspiel"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Reportage> a skos:Concept;
+    skos:prefLabel "Reportage"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Audiobeitrag> a skos:Concept;
+    skos:prefLabel "Audiobeitrag"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Radiobeitrag> a skos:Concept;
+    skos:prefLabel "Radiobeitrag"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Radiofeature> a skos:Concept;
+    skos:prefLabel "Radiofeature"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Radiointerview> a skos:Concept;
+    skos:prefLabel "Radiointerview"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Podcast> a skos:Concept;
+    skos:prefLabel "podcast"@en, "Podcast"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_75a4a500>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Clipping> a skos:Concept;
+    skos:prefLabel "Clipping"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Gutachten> a skos:Concept;
+    skos:prefLabel "Gutachten"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Libretto> a skos:Concept;
+    skos:prefLabel "Libretto"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Drehbuch> a skos:Concept;
+    skos:prefLabel "Drehbuch"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Edition> a skos:Concept;
+    skos:prefLabel "Edition"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Schriftenreihe> a skos:Concept;
+    skos:prefLabel "Schriftenreihe"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Buchreihe> a skos:Concept;
+    skos:prefLabel "Buchreihe"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Fanzine> a skos:Concept;
+    skos:prefLabel "Fanzine"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Kommentar> a skos:Concept;
+    skos:prefLabel "Kommentar"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Tagungsbericht> a skos:Concept;
+    skos:prefLabel "conference paper"@en, "Tagungsbericht"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Studie> a skos:Concept;
+    skos:prefLabel "Studie"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Essay> a skos:Concept;
+    skos:prefLabel "essay"@en, "Essay"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Bachelorarbeit> a skos:Concept;
+    skos:prefLabel "bachelor thesis"@en, "Bachelorarbeit"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028028>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Dissertation> a skos:Concept;
+    skos:prefLabel "doctoral dissertation"@en, "Dissertation"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300312076>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Diplomarbeit> a skos:Concept;
+    skos:prefLabel "Diplomarbeit"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300028028>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Masterarbeit> a skos:Concept;
+    skos:prefLabel "master thesis"@en, "Masterarbeit"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300077723>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Beitrag_in_Fachzeitschrift> a skos:Concept;
+    skos:prefLabel "article in journal with citation index"@en, "Beitrag in Fachzeitschrift (SCI,  SSCI, A&HCI)"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Aufsatz> a skos:Concept;
+    skos:prefLabel "article"@en, "Aufsatz"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300048715>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Beitrag_in_Sammelband> a skos:Concept;
+    skos:prefLabel "chapter"@en, "Beitrag in Sammelband"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300311699>, <http://d-nb.info/gnd/4290552-7>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Kritik> a skos:Concept;
+    skos:prefLabel "review"@en, "Kritik"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300026480>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Rezension> a skos:Concept;
+    skos:prefLabel "Rezension"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Katalog> a skos:Concept;
+    skos:prefLabel "Katalog"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Ausstellungskatalog> a skos:Concept;
+    skos:prefLabel "exhibition catalogue"@en, "Ausstellungskatalog"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300026096>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Blog> a skos:Concept;
+    skos:prefLabel "Blog"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Kolumne> a skos:Concept;
+    skos:prefLabel "Kolumne"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Zeitungsartikel> a skos:Concept;
+    skos:prefLabel "Zeitungsartikel"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Interview> a skos:Concept;
+    skos:prefLabel "Interview"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Zeitungsbericht> a skos:Concept;
+    skos:prefLabel "Zeitungsbericht"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Künstlerbuch> a skos:Concept;
+    skos:prefLabel "Künstlerbuch"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Aufsatzsammlung> a skos:Concept;
+    skos:prefLabel "Aufsatzsammlung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://d-nb.info/gnd/4143413-4>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Sammelband> a skos:Concept;
+    skos:prefLabel "Sammelband"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300391488>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Periodikum> a skos:Concept;
+    skos:prefLabel "periodical"@en, "Periodikum"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300026657>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Monographie> a skos:Concept;
+    skos:prefLabel "monograph"@en, "Monographie"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_ab599a03>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300060417>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Finissage> a skos:Concept;
+    skos:prefLabel "Finissage"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_b04cb4b9>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vernissage> a skos:Concept;
+    skos:prefLabel "Vernissage"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_b04cb4b9>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Gruppenausstellung> a skos:Concept;
+    skos:prefLabel "Gruppenausstellung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_b04cb4b9>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Einzelausstellung> a skos:Concept;
+    skos:prefLabel "Einzelausstellung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_b04cb4b9>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Lithografie> a skos:Concept;
+    skos:prefLabel "Lithografie"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Radierung> a skos:Concept;
+    skos:prefLabel "Radierung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Collage> a skos:Concept;
+    skos:prefLabel "Collage"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Zeichnung> a skos:Concept;
+    skos:prefLabel "Zeichnung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Gemälde> a skos:Concept;
+    skos:prefLabel "Gemälde"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Fotografie> a skos:Concept;
+    skos:prefLabel "Fotografie"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_7f26c7ac>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vortragende/r> a skos:Concept;
+    skos:prefLabel "lecturer"@en, "Vortragende/r"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vorstandsmitglied> a skos:Concept;
+    skos:prefLabel "board member"@en, "Vorstandsmitglied"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vorstand> a skos:Concept;
+    skos:prefLabel "board of directors"@en, "Vorstand"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vorsitzende/r> a skos:Concept;
+    skos:prefLabel "Vorsitzende/r"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Verlag> a skos:Concept;
+    skos:prefLabel "publisher"@en, "Verlag"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025574>, <http://d-nb.info/gnd/4063004-3>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Vergabe_durch> a skos:Concept;
+    skos:prefLabel "granted by"@en, "Vergabe durch"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Veranstalter/in> a skos:Concept;
+    skos:prefLabel "Veranstalter/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Übersetzer/in> a skos:Concept;
+    skos:prefLabel "Übersetzer/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Teilnehmer/in> a skos:Concept;
+    skos:prefLabel "Teilnehmer/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Rezensent/in> a skos:Concept;
+    skos:prefLabel "Rezensent/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Regisseur/in> a skos:Concept;
+    skos:prefLabel "director"@en, "Regisseur/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Projektpartner/in> a skos:Concept;
+    skos:prefLabel "Projektpartner/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Projektleiter/in> a skos:Concept;
+    skos:prefLabel "project lead"@en, "Projektleiter/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Preisträger/in> a skos:Concept;
+    skos:prefLabel "winner"@en, "Preisträger/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Performer/in> a skos:Concept;
+    skos:prefLabel "Performer/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Organisator/in> a skos:Concept;
+    skos:prefLabel "organiser"@en, "Organisator/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Musiker/in> a skos:Concept;
+    skos:prefLabel "musician"@en, "Musiker/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Moderator/in> a skos:Concept;
+    skos:prefLabel "presenter"@en, "Moderator/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Mitglied> a skos:Concept;
+    skos:prefLabel "Mitglied"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Leitung> a skos:Concept;
+    skos:prefLabel "Leitung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Lehrende> a skos:Concept;
+    skos:prefLabel "instructor"@en, "Lehrende"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Kurator/in> a skos:Concept;
+    skos:prefLabel "curator"@en, "Kurator/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300054277>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_künstlerische/r_Leiter/in> a skos:Concept;
+    skos:prefLabel "künstlerische/r Leiter/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Künstler/in> a skos:Concept;
+    skos:prefLabel "Künstler/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Kritiker/in> a skos:Concept;
+    skos:prefLabel "Kritiker/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Kooperationspartner/in> a skos:Concept;
+    skos:prefLabel "Kooperationspartner/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Keynote_Rede> a skos:Concept;
+    skos:prefLabel "key note lecture"@en, "Keynote Rede"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Jurymitglied> a skos:Concept;
+    skos:prefLabel "Jurymitglied"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Interpret/in> a skos:Concept;
+    skos:prefLabel "Interpret/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Intendanz> a skos:Concept;
+    skos:prefLabel "Intendanz"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Intendant/in> a skos:Concept;
+    skos:prefLabel "Intendant/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Illustrator/in> a skos:Concept;
+    skos:prefLabel "Illustrator/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Herausgeber/in> a skos:Concept;
+    skos:prefLabel "editor"@en, "Herausgeber/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Habilitationskommission> a skos:Concept;
+    skos:prefLabel "Habilitationskommission"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Fotograf/in> a skos:Concept;
+    skos:prefLabel "photographer"@en, "Fotograf/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Fördergeber/in> a skos:Concept;
+    skos:prefLabel "Fördergeber/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Förderagentur> a skos:Concept;
+    skos:prefLabel "funding agency"@en, "Förderagentur"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Festivalleiter/in> a skos:Concept;
+    skos:prefLabel "Festivalleiter/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_erschienen_in> a skos:Concept;
+    skos:prefLabel "erschienen in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Einführung> a skos:Concept;
+    skos:prefLabel "Einführung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Dirigent/in> a skos:Concept;
+    skos:prefLabel "conductor"@en, "Dirigent/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Designer/in> a skos:Concept;
+    skos:prefLabel "designer"@en, "Designer/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025190>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Conference_Reviewer> a skos:Concept;
+    skos:prefLabel "conference reviewer"@en, "Conference Reviewer"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Beteiligte/r> a skos:Concept;
+    skos:prefLabel "participating"@en, "Beteiligte/r"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Berufungskommission> a skos:Concept;
+    skos:prefLabel "Berufungskommission"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Berater/in> a skos:Concept;
+    skos:prefLabel "Berater/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Beirat> a skos:Concept;
+    skos:prefLabel "advisory board"@en, "Beirat"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Begrüßung> a skos:Concept;
+    skos:prefLabel "Begrüßung"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Autor/in> a skos:Concept;
+    skos:prefLabel "author"@en, "Autor/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>;
+    skos:exactMatch <http://vocab.getty.edu/aat/300025492>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Auftraggeber/in> a skos:Concept;
+    skos:prefLabel "Auftraggeber/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Aufsichtsrat> a skos:Concept;
+    skos:prefLabel "board"@en, "Aufsichtsrat"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.
+<http://base.uni-ak.ac.at/portfolio/cv/c_Architekt/in> a skos:Concept;
+    skos:prefLabel "architect"@en, "Architekt/in"@de;
+    skos:inScheme <http://base.uni-ak.ac.at/portfolio/cv/conceptScheme_8a380232>;
+    skos:broader <http://base.uni-ak.ac.at/portfolio/cv/c_0829594c>.

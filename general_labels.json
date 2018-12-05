@@ -17,8 +17,7 @@
     },
     {
         "en": "participants",
-        "de": "Mitwirkende",
-        "gettyAat": "?"
+        "de": "Mitwirkende"
     },
     {
         "en": "keywords",
@@ -77,17 +76,16 @@
     {
         "en": "published in",
         "de": "Erschienen in",
-        "gettyAat": "http://vocab.getty.edu/aat/300048715 ?"
+        "gettyAat": "http://vocab.getty.edu/aat/300048715"
     },
     {
         "en": "volume/issue",
         "de": "Band",
-        "gettyAat": "http://vocab.getty.edu/aat/300312349 ?"
+        "gettyAat": "http://vocab.getty.edu/aat/300312349"
     },
     {
         "en": "number",
-        "de": "Nummer",
-        "gettyAat": "?"
+        "de": "Nummer"
     },
     {
         "en": "pages",
@@ -136,7 +134,6 @@
     {
         "en": "section",
         "de": "Rubrik",
-        "gettyAat": "?",
         "gnd": "http://d-nb.info/gnd/4178594-0"
     },
     {

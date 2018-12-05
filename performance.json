@@ -12,9 +12,11 @@
         "de": "Intervention"
     },
     {
-        "en": "Live Art"
+        "en": "Live Art",
+        "de": "Live Art"
     },
     {
-        "en": "Performance Art"
+        "en": "Performance Art",
+        "de": "Performancekunst"
     }
 ]

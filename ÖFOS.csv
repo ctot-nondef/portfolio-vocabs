@@ -1,0 +1,1370 @@
+ThesName;KeyName_de;KeyName_en;AbsolutePath
+ÖFOS;1 - NATURWISSENSCHAFTEN;1 - NATURWISSENSCHAFTEN;
+ÖFOS;101 Mathematik;101 Mathematik;1 - NATURWISSENSCHAFTEN
+ÖFOS;1010 Mathematik;1010 Mathematik;1 - NATURWISSENSCHAFTEN/101 Mathematik
+ÖFOS;101001 Algebra;101001 Algebra;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101002 Analysis;101002 Analysis ;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101003 Angewandte Geometrie;101003 Applied geometry;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101004 Biomathematik;101004 Biomathematics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101005 Computeralgebra;101005 Computer algebra ;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101006 Differentialgeometrie;101006 Differential geometry;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101007 Finanzmathematik;101007 Financial mathematics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101008 Funktionentheorie;101008 Complex analysis;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101009 Geometrie;101009 Geometry ;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101010 Geschichte der Mathematik;101010 History of mathematics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101011 Graphentheorie;101011 Graph theory;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101012 Kombinatorik;101012 Combinatorics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101013 Mathematische Logik;101013 Mathematical logic ;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101014 Numerische Mathematik;101014 Numerical mathematics ;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101015 Operations Research;101015 Operations research;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101016 Optimierung;101016 Optimisation;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101017 Spieltheorie;101017 Game theory;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101018 Statistik;101018 Statistics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101019 Stochastik;101019 Stochastics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101020 Technische Mathematik;101020 Technical mathematics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101021 Theoretische Kybernetik;101021 Theoretical cybernetics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101022 Topologie;101022 Topology;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101023 Versicherungsmathematik;101023 Actuarial mathematics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101024 Wahrscheinlichkeitstheorie;101024 Probability theory ;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101025 Zahlentheorie;101025 Number theory;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101026 Zeitreihenanalyse;101026 Time series analysis;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101027 Dynamische Systeme;101027 Dynamical systems;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101028 Mathematische Modellierung;101028 Mathematical modelling;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101029 Mathematische Statistik;101029 Mathematical statistics;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;101030 ZuverlÖssigkeitstheorie;101030 Reliability theory;1 - NATURWISSENSCHAFTEN/101 Mathematik/1010 Mathematik
+ÖFOS;102 Informatik;102 Informatik;1 - NATURWISSENSCHAFTEN
+ÖFOS;1020 Informatik;1020 Informatik;1 - NATURWISSENSCHAFTEN/102 Informatik
+ÖFOS;102001 Artificial Intelligence;102001 Artificial intelligence;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102002 Augmented Reality;102002 Augmented reality;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102003 Bildverarbeitung;102003 Image processing;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102004 Bioinformatik;102004 Bioinformatics;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102005 Computer Aided Design (CAD);102005 Computer aided design (CAD);1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102006 Computer Supported Cooperative Work (CSCW);102006 Computer supported cooperative work (CSCW);1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102007 Computeranimation;102007 Computer animation;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102008 Computergraphik;102008 Computer graphics;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102009 Computersimulation;102009 Computer simulation;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102010 Datenbanksysteme;102010 Database systems;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102011 Formale Sprachen;102011 Formal languages;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102012 Geschichte der Informatik;102012 History of computer science;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102013 Human-Computer Interaction;102013 Human-computer interaction;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102014 Informationsdesign;102014 Information design;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102015 Informationssysteme;102015 Information systems;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102016 IT-Sicherheit;102016 IT security ;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102017 Kryptologie;102017 Cryptology;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102018 KÖnstliche Neuronale Netze;102018 Artificial neural networks;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102019 Machine Learning;102019 Machine learning;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102020 Medizinische Informatik;102020 Medical informatics;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102021 Pervasive Computing;102021 Pervasive computing;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102022 Softwareentwicklung;102022 Software development;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102023 Supercomputing;102023 Supercomputing;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102024 Usability Research;102024 Usability research;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102025 Verteilte Systeme;102025 Distributed systems;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102026 Virtual Reality;102026 Virtual reality;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102027 Web Engineering;102027 Web engineering;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102028 Knowledge Engineering;102028 Knowledge engineering;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102029 Praktische Informatik;102029 Practical computer science;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102030 Semantische Technologien;102030 Semantic technologies;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102031 Theoretische Informatik;102031 Theoretical computer science;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102032 Computational Intelligence;102032 Computational intelligence;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;102033 Data Mining;102033 Data mining;1 - NATURWISSENSCHAFTEN/102 Informatik/1020 Informatik
+ÖFOS;103 Physik, Astronomie;103 Physik, Astronomie;1 - NATURWISSENSCHAFTEN
+ÖFOS;1030 Physik, Astronomie;1030 Physik, Astronomie;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie
+ÖFOS;103001 Aerodynamik;103001 Aerodynamics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103002 Akustik;103002 Acoustics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103003 Astronomie;103003 Astronomy;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103004 Astrophysik;103004 Astrophysics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103005 Atomphysik;103005 Atomic physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103006 Chemische Physik;103006 Chemical physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103007 Dosimetrie;103007 Dosimetry;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103008 Experimentalphysik;103008 Experimental physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103009 FestkÖrperphysik;103009 Solid state physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103010 Geschichte der Physik;103010 History of physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103011 Halbleiterphysik;103011 Semiconductor physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103012 Hochenergiephysik;103012 High energy physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103013 Ionenphysik;103013 Ion physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103014 Kernphysik;103014 Nuclear physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103015 Kondensierte Materie;103015 Condensed matter ;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103016 Laserphysik;103016 Laser physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103017 Magnetismus;103017 Magnetism;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103018 Materialphysik;103018 Materials physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103019 Mathematische Physik;103019 Mathematical physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103020 OberflÖchenphysik;103020 Surface physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103021 Optik;103021 Optics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103022 Plasmaphysik;103022 Plasma physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103023 Polymerphysik;103023 Polymer physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103024 Quantenfeldtheorie;103024 Quantum field theory;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103025 Quantenmechanik;103025 Quantum mechanics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103026 Quantenoptik;103026 Quantum optics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103027 Reaktorphysik;103027 Reactor physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103028 RelativitÖtstheorie;103028 Theory of relativity ;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103029 Statistische Physik;103029 Statistical physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103030 Strahlenphysik;103030 Radiation physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103031 Strahlenschutz;103031 Radiation protection;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103032 StrÖmungslehre;103032 Fluid mechanics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103033 Supraleitung;103033 Superconductivity;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103034 Teilchenphysik;103034 Particle physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103035 Theoretische Mechanik;103035 Theoretical mechanics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103036 Theoretische Physik;103036 Theoretical physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103037 Umweltphysik;103037 Environmental physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103038 Weltraumforschung;103038 Space exploration;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103039 Aerosolphysik;103039 Aerosol physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103040 Photonik;103040 Photonics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103041 Astroteilchenphysik;103041 Astroparticle physics;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;103042 Elektronenmikroskopie;103042 Electron microscopy;1 - NATURWISSENSCHAFTEN/103 Physik, Astronomie/1030 Physik, Astronomie
+ÖFOS;104 Chemie;104 Chemie;1 - NATURWISSENSCHAFTEN
+ÖFOS;1040 Chemie;1040 Chemie;1 - NATURWISSENSCHAFTEN/104 Chemie
+ÖFOS;104001 Allgemeine Chemie;104001 General chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104002 Analytische Chemie;104002 Analytical chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104003 Anorganische Chemie;104003 Inorganic chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104004 Chemische Biologie;104004 Chemical biology;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104005 Elektrochemie;104005 Electrochemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104006 FestkÖrperchemie;104006 Solid state chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104007 Geschichte der Chemie;104007 History of chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104008 Katalyse;104008 Catalysis;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104009 Lebensmittelchemie;104009 Food chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104010 Makromolekulare Chemie;104010 Macromolecular chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104011 Materialchemie;104011 Materials chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104012 Mikroanalyse;104012 Microanalysis;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104013 Naturstoffchemie;104013 Natural product chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104014 OberflÖchenchemie;104014 Surface chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104015 Organische Chemie;104015 Organic chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104016 Photochemie;104016 Photochemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104017 Physikalische Chemie;104017 Physical chemistry ;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104018 Polymerchemie;104018 Polymer chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104019 Polymerwissenschaften;104019 Polymer sciences;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104020 Radiochemie;104020 Radiochemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104021 Strukturchemie;104021 Structural chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104022 Theoretische Chemie;104022 Theoretical chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104023 Umweltchemie;104023 Environmental chemistry ;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104024 RÖntgenstrukturanalyse;104024 X-ray structural analysis;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104025 Single-Molecule Chemistry;104025 Single-molecule chemistry;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;104026 Spektroskopie;104026 Spectroscopy;1 - NATURWISSENSCHAFTEN/104 Chemie/1040 Chemie
+ÖFOS;105 Geowissenschaften;105 Geowissenschaften;1 - NATURWISSENSCHAFTEN
+ÖFOS;1051 Geologie, Mineralogie;1051 Geologie, Mineralogie;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften
+ÖFOS;105101 Allgemeine Geologie;105101 General geology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105102 Allgemeine Geophysik;105102 General geophysics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105103 ErdÖlgeologie;105103 Petroleum geology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105104 Erosion;105104 Erosion;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105105 Geochemie;105105 Geochemistry;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105106 Geodynamik;105106 Geodynamics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105107 Geoelektrik;105107 Geoelectrics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105108 Geostatistik;105108 Geostatistics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105109 Geothermik;105109 Geothermics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105110 Geschichte der Geologie;105110 History of geology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105111 Gravimetrie;105111 Gravimetry;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105112 Historische Geologie;105112 Historical geology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105113 Kristallographie;105113 Crystallography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105114 Kulturgeologie;105114 Cultural geology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105115 Magnetik;105115 Magnetics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105116 Mineralogie;105116 Mineralogy;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105117 PalÖobotanik;105117 Palaeobotany;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105118 PalÖontologie;105118 Palaeontology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105119 Petrographie;105119 Petrography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105120 Petrologie;105120 Petrology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105121 Sedimentologie;105121 Sedimentology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105122 Seismik;105122 Seismic;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105123 Stratigraphie;105123 Stratigraphy;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105124 Tektonik;105124 Tectonics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105125 Petrophysik;105125 Petrophysics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105126 Angewandte Geophysik;105126 Applied geophysics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;105127 Geochronologie;105127 Geochronology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1051 Geologie, Mineralogie
+ÖFOS;1052 Meteorologie, Klimatologie;1052 Meteorologie, Klimatologie;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften
+ÖFOS;105201 Aeronomie;105201 Aeronomy;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;105202 Agrarmeteorologie;105202 Agricultural meteorology ;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;105203 Bioklimatologie;105203 Bioclimatology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;105204 Klimatologie;105204 Climatology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;105205 Klimawandel;105205 Climate change;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;105206 Meteorologie;105206 Meteorology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;105207 Gebirgsmeteorologie;105207 Mountain meteorology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1052 Meteorologie, Klimatologie
+ÖFOS;1053 Hydrologie;1053 Hydrologie;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften
+ÖFOS;105301 GewÖsserschutz;105301 Water protection;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105302 Hydrochemie;105302 Hydrochemistry;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105303 Hydrogeologie;105303 Hydrogeology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105304 Hydrologie;105304 Hydrology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105305 Hydrometrie;105305 Hydrometry;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105306 Ozeanographie;105306 Oceanography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105307 WassergÖte;105307 Water quality;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;105308 Wasserressourcen;105308 Water resources;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1053 Hydrologie
+ÖFOS;1054 Physische Geographie;1054 Physische Geographie;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften
+ÖFOS;105401 Biogeographie;105401 Biogeography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105402 Bodengeographie;105402 Soil geography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105403 Geoinformatik;105403 Geoinformatics;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105404 Geomorphologie;105404 Geomorphology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105405 GeoÖkologie;105405 Geoecology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105406 Geschichte der Geographie;105406 History of geography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105407 Kartographie;105407 Cartography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105408 Physische Geographie;105408 Physical geography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;105409 Topographie;105409 Topography;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1054 Physische Geographie
+ÖFOS;1059 Sonstige und interdisziplinÖre Geowissenschaften;1059 Sonstige und interdisziplinÖre Geowissenschaften;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften
+ÖFOS;105901 Glaziologie;105901 Glaciology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1059 Sonstige und interdisziplinÖre Geowissenschaften
+ÖFOS;105902 Naturgefahren;105902 Natural hazards;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1059 Sonstige und interdisziplinÖre Geowissenschaften
+ÖFOS;105903 SpelÖologie;105903 Speleology;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1059 Sonstige und interdisziplinÖre Geowissenschaften
+ÖFOS;105904 Umweltforschung;105904 Environmental research;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1059 Sonstige und interdisziplinÖre Geowissenschaften
+ÖFOS;105905 Umweltschutz;105905 Environmental protection;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1059 Sonstige und interdisziplinÖre Geowissenschaften
+ÖFOS;105906 Umweltgeowissenschaften;105906 Environmental geosciences;1 - NATURWISSENSCHAFTEN/105 Geowissenschaften/1059 Sonstige und interdisziplinÖre Geowissenschaften
+ÖFOS;106 Biologie;106 Biologie;1 - NATURWISSENSCHAFTEN
+ÖFOS;1060 Biologie;1060 Biologie;1 - NATURWISSENSCHAFTEN/106 Biologie
+ÖFOS;106001 Allgemeine Biologie;106001 General biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106002 Biochemie;106002 Biochemistry;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106003 BiodiversitÖtsforschung;106003 Biodiversity research;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106004 Bioethik;106004 Bioethics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106005 Bioinformatik;106005 Bioinformatics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106006 Biophysik;106006 Biophysics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106007 Biostatistik;106007 Biostatistics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106008 Botanik;106008 Botany;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106009 Chronobiologie;106009 Chronobiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106010 Entwicklungsbiologie;106010 Developmental biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106011 Ersatzmethoden zu Tierversuchen;106011 Alternatives to animal testing;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106012 Evolutionsforschung;106012 Evolutionary research;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106013 Genetik;106013 Genetics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106014 Genomik;106014 Genomics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106015 Geobotanik;106015 Geobotany;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106016 Geschichte der Biologie;106016 History of biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106017 Glykobiologie;106017 Glycobiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106018 Humanbiologie;106018 Human biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106019 Hydrobiologie;106019 Hydrobiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106020 Limnologie;106020 Limnology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106021 Meeresbiologie;106021 Marine biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106022 Mikrobiologie;106022 Microbiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106023 Molekularbiologie;106023 Molecular biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106024 Mykologie;106024 Mycology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106025 Neurobiologie;106025 Neurobiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106026 Ökosystemforschung;106026 Ecosystem research;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106027 Ökotoxikologie;106027 Ecotoxicology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106028 Pflanzenanatomie;106028 Plant anatomy;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106029 Pflanzenmorphologie;106029 Plant morphology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106030 PflanzenÖkologie;106030 Plant ecology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106031 Pflanzenphysiologie;106031 Plant physiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106032 Photobiologie;106032 Photobiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106033 Phylogenie;106033 Phylogeny;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106034 Phytochemie;106034 Phytochemistry;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106035 Phytogeographie;106035 Phytogeography;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106036 Populationsgenetik;106036 Population genetics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106037 Proteomik;106037 Proteomics;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106038 Reproduktionsbiologie;106038 Reproductive biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106039 Stammzellenforschung;106039 Stem cell research;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106040 Strahlenbiologie;106040 Radiation biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106041 Strukturbiologie;106041 Structural biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106042 Systematische Botanik;106042 Systematic botany;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106043 Systematische Zoologie;106043 Systematic zoology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106044 Systembiologie;106044 Systems biology ;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106045 Theoretische Biologie;106045 Theoretical biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106046 Tieranatomie;106046 Animal anatomy;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106047 TierÖkologie;106047 Animal ecology ;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106048 Tierphysiologie;106048 Animal physiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106049 Ultrastrukturforschung;106049 Ultrastructure research;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106050 Vegetationskunde;106050 Vegetation science;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106051 Verhaltensbiologie;106051 Behavioural biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106052 Zellbiologie;106052 Cell biology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106053 Zoogeographie;106053 Zoogeography;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106054 Zoologie;106054 Zoology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106055 Aerobiologie;106055 Aerobiology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;106056 Biologische Anthropologie;106056 Biological anthropology;1 - NATURWISSENSCHAFTEN/106 Biologie/1060 Biologie
+ÖFOS;107 Andere Naturwissenschaften;107 Andere Naturwissenschaften;1 - NATURWISSENSCHAFTEN
+ÖFOS;1070 Andere Naturwissenschaften;1070 Andere Naturwissenschaften;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften
+ÖFOS;107001 ArchÖometrie;107001 Archaeometry;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;107002 Bionik;107002 Bionics;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;107003 Geschichte der Naturwissenschaften;107003 History of natural sciences;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;107004 HumanÖkologie;107004 Human ecology;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;107005 Lebensmitteluntersuchung;107005 Food testing;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;107006 Naturschutz;107006 Nature conservation;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;107007 Risikoforschung;107007 Risk research;1 - NATURWISSENSCHAFTEN/107 Andere Naturwissenschaften/1070 Andere Naturwissenschaften
+ÖFOS;2 - TECHNISCHE WISSENSCHAFTEN;2 - TECHNISCHE WISSENSCHAFTEN;
+ÖFOS;201 Bauwesen;201 Bauwesen;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2011 Bauingenieurwesen;2011 Bauingenieurwesen;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen
+ÖFOS;201101 Baubetrieb;201101 Construction operation;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201102 Baudynamik;201102 Structural dynamics;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201103 Bauphysik;201103 Building physics;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201104 Baustatik;201104 Structural analysis;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201105 Baustofflehre;201105 Construction material practice;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201106 Bautechnik;201106 Structural engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201107 Betriebsfestigkeit;201107 Endurance strength;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201108 Bruchmechanik;201108 Fracture mechanics;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201109 BrÖckenbau;201109 Bridge construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201110 Festigkeitslehre;201110 Strength of materials;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201111 Flussbau;201111 River engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201112 Hochbau;201112 Building construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201113 Holzbau;201113 Timber engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201114 Industriebau;201114 Industrial building;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201115 Konstruktiver Wasserbau;201115 Structural hydraulic engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201116 Landwirtschaftliches Bauwesen;201116 Agricultural civil engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201117 Leichtbau;201117 Lightweight design;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201118 Siedlungswasserbau;201118 Urban water supply and sanitation;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201119 Stahlbau;201119 Steel construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201120 Stahlbetonbau;201120 Reinforced concrete construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201121 StraÖenbau;201121 Road construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201122 Technischer Hochwasserschutz;201122 Technical flood protection;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201123 Tiefbau;201123 Underground engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201124 Tragwerkslehre;201124 Structural design;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201125 Wasserbau;201125 Hydraulic engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201126 Wasserkraftanlagenbau;201126 Hydropower plant construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201127 Wildbach- und Lawinenverbauung;201127 Torrent and avalanche control;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201128 Nachhaltiges Bauen;201128 Sustainable building;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201129 Erdbebeningenieurwesen;201129 Earthquake engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;201130 Konstruktiver Glasbau;201130 Structural glass construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2011 Bauingenieurwesen
+ÖFOS;2012 Architektur;2012 Architektur;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen
+ÖFOS;201201 Architekturgeschichte;201201 History of architecture;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201202 Architekturmodellbau;201202 Architectural modelling ;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201203 Architekturtheorie;201203 Architectural theory;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201204 Barrierefreies Bauen;201204 Barrier-free building;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201205 Bauforschung;201205 Building research;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201206 Entwerfen;201206 Designing;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201207 GebÖudelehre;201207 Building typology;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201208 Industriearchitektur;201208 Industrial architecture;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201209 Innenarchitektur;201209 Interior design;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201210 Landschaftsarchitektur;201210 Landscape architecture;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201211 Solararchitektur;201211 Solar architecture;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201212 StÖdtebau;201212 Urban design;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201213 Wohnbau;201213 Housing;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;201214 Experimentelle Architektur;201214 Experimental architecture;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2012 Architektur
+ÖFOS;2013 Verkehrswesen;2013 Verkehrswesen;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen
+ÖFOS;201301 Bahnbau;201301 Railway construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;201302 Eisenbahnwesen;201302 Railway engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;201303 Seilbahnwesen;201303 Ropeways;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;201304 StraÖenbau;201304 Road construction;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;201305 Verkehrstechnik;201305 Traffic engineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;201306 Verkehrstelematik;201306 Traffic telematics;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;201307 Verkehrswirtschaft;201307 Transport economics;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2013 Verkehrswesen
+ÖFOS;2019 Sonstiges Bauwesen;2019 Sonstiges Bauwesen;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen
+ÖFOS;201901 Altbausanierung;201901 Old building renovation;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2019 Sonstiges Bauwesen
+ÖFOS;201902 BauÖkologie;201902 Building ecology;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2019 Sonstiges Bauwesen
+ÖFOS;201903 Ingenieurbiologie;201903 Soil bioengineering;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2019 Sonstiges Bauwesen
+ÖFOS;201904 Vegetationstechnik;201904 Vegetation technology;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2019 Sonstiges Bauwesen
+ÖFOS;201905 Bauen im Bestand;201905 Building within existing structures;2 - TECHNISCHE WISSENSCHAFTEN/201 Bauwesen/2019 Sonstiges Bauwesen
+ÖFOS;202 Elektrotechnik, Elektronik, Informationstechnik;202 Elektrotechnik, Elektronik, Informationstechnik;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2020 Elektrotechnik, Elektronik, Informationstechnik;2020 Elektrotechnik, Elektronik, Informationstechnik;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202001 Audiotechnik;202001 Audio technology;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202002 Audiovisuelle Medien;202002 Audiovisual media;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202003 Automatisierungstechnik;202003 Automation;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202004 Brain-Computer Interface;202004 Brain-computer interface;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202005 Computer Architektur;202005 Computer architecture;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202006 Computer Hardware;202006 Computer hardware;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202007 Computer Integrated Manufacturing (CIM);202007 Computer integrated manufacturing (CIM);2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202008 Elektrische Anlagen;202008 Electrical power systems;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202009 Elektrische Antriebstechnik;202009 Electrical drive engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202010 Elektrische Energietechnik;202010 Electric power engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202011 Elektrische Maschinen;202011 Electrical machines;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202012 Elektrische Messtechnik;202012 Electrical measurement technology;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202013 Elektromagnetische VertrÖglichkeit;202013 Electromagnetic compatibility;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202014 Elektromagnetismus;202014 Electromagnetism;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202015 Elektronik;202015 Electronics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202016 Elektrotechnik;202016 Electrical engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202017 Embedded Systems;202017 Embedded systems;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202018 Halbleiterelektronik;202018 Semiconductor electronics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202019 Hochfrequenztechnik;202019 High frequency engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202020 Hochspannungstechnik;202020 High voltage engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202021 Industrielle Elektronik;202021 Industrial electronics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202022 Informationstechnik;202022 Information technology;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202023 Integrierte Schaltkreise;202023 Integrated circuits;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202024 Lasertechnik;202024 Laser technology;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202025 Leistungselektronik;202025 Power electronics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202026 Lichttechnik;202026 Light technology ;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202027 Mechatronik;202027 Mechatronics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202028 Mikroelektronik;202028 Microelectronics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202029 Mikrowellentechnik;202029 Microwave engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202030 Nachrichtentechnik;202030 Communication engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202031 Netzwerktechnik;202031 Network engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202032 Photovoltaik;202032 Photovoltaics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202033 Radartechnik;202033 Radar technology;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202034 Regelungstechnik;202034 Control engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202035 Robotik;202035 Robotics;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202036 Sensorik;202036 Sensor systems;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202037 Signalverarbeitung;202037 Signal processing;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202038 Telekommunikation;202038 Telecommunications;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202039 Theoretische Elektrotechnik;202039 Theoretical electrical engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202040 Öbertragungstechnik;202040 Transmission technology;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202041 Technische Informatik;202041 Computer engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;202042 Optische Nachrichtentechnik;202042 Optical communication engineering;2 - TECHNISCHE WISSENSCHAFTEN/202 Elektrotechnik, Elektronik, Informationstechnik/2020 Elektrotechnik, Elektronik, Informationstechnik
+ÖFOS;203 Maschinenbau;203 Maschinenbau;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2030 Maschinenbau;2030 Maschinenbau;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau
+ÖFOS;203001 Apparatebau;203001 Apparatus engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203002 Betriebsfestigkeit;203002 Endurance strength;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203003 Bruchmechanik;203003 Fracture mechanics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203004 Fahrzeugtechnik;203004 Automotive technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203005 Feinwerktechnik;203005 Precision engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203006 Fertigungstechnik;203006 Production engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203007 Festigkeitslehre;203007 Strength of materials;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203008 FÖrdertechnik;203008 Conveyor technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203009 KÖltetechnik;203009 Refrigeration engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203010 Klimatechnik;203010 Air conditioning technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203011 Leichtbau;203011 Lightweight design;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203012 Luftfahrttechnik;203012 Aerospace engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203013 Maschinenbau;203013 Mechanical engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203014 Maschinendynamik;203014 Machine dynamics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203015 Mechatronik;203015 Mechatronics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203016 Messtechnik;203016 Measurement engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203017 Mikromechanik;203017 Micromechanics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203018 Montanmaschinenbau;203018 Heavy machinery construction;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203019 Reaktortechnik;203019 Reactor technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203020 SchweiÖtechnik;203020 Welding engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203021 StrÖmungsmaschinen;203021 Fluid-flow machinery;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203022 Technische Mechanik;203022 Technical mechanics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203023 Thermische Turbomaschinen;203023 Thermal turbomachinery;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203024 Thermodynamik;203024 Thermodynamics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203025 Tribologie;203025 Tribology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203026 Umformtechnik;203026 Forming;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203027 Verbrennungskraftmaschinen;203027 Internal combustion engines;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203028 WÖrmetechnik;203028 Thermal engineering;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203029 Werkzeugbau;203029 Tool construction;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203030 Brennstoffzellentechnik;203030 Fuel cell technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203031 Konstruktionslehre;203031 Engineering design;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203032 Generative Fertigungsverfahren;203032 Additive manufacturing;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203033 Hydraulische Antriebstechnik;203033 Hydraulic drive technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203034 Kontinuumsmechanik;203034 Continuum mechanics;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;203035 Thermoprozesstechnik;203035 Thermal processing technology;2 - TECHNISCHE WISSENSCHAFTEN/203 Maschinenbau/2030 Maschinenbau
+ÖFOS;204 Chemische Verfahrenstechnik;204 Chemische Verfahrenstechnik;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2040 Chemische Verfahrenstechnik;2040 Chemische Verfahrenstechnik;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik
+ÖFOS;204001 Anorganisch-chemische Technologie;204001 Inorganic chemical technology;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;204002 Chemische Reaktionstechnik;204002 Chemical reaction engineering ;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;204003 Chemische Verfahrenstechnik;204003 Chemical process engineering;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;204004 Organisch-chemische Technologie;204004 Organic chemical technology ;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;204005 Raffinerietechnik;204005 Refining technology ;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;204006 Mechanische Verfahrenstechnik;204006 Mechanical process engineering;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;204007 Thermische Verfahrenstechnik;204007 Thermal process engineering;2 - TECHNISCHE WISSENSCHAFTEN/204 Chemische Verfahrenstechnik/2040 Chemische Verfahrenstechnik
+ÖFOS;205 Werkstofftechnik;205 Werkstofftechnik;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2050 Werkstofftechnik;2050 Werkstofftechnik;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik
+ÖFOS;205001 BaustoffprÖfung;205001 Building materials testing;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205002 Beschichtungstechnik;205002 Coating technology;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205003 Feuerfeste Materialien;205003 Refractories;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205004 Funktionsmaterialien;205004 Functional materials;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205005 GesteinshÖttenkunde;205005 Ceramics engineering;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205006 Holzforschung;205006 Wood research;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205007 Holzschutzmittel;205007 Wood preservatives;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205008 Holztechnologie;205008 Wood technology;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205009 Keramische Werkstoffe;205009 Ceramic materials;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205010 Korrosionsschutzmittel;205010 Anticorrosives;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205011 Kunststofftechnik;205011 Polymer engineering;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205012 Kunststoffverarbeitung;205012 Polymer processing;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205013 Schadensanalytik;205013 Failure analysis;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205014 Textiltechnik;205014 Textile technology;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205015 Verbundwerkstoffe;205015 Composites;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205016 WerkstoffprÖfung;205016 Materials testing;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205017 Werkstofftechnik;205017 Materials engineering;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;205018 Zellstoff- und Papiertechnik;205018 Pulp and paper technology;2 - TECHNISCHE WISSENSCHAFTEN/205 Werkstofftechnik/2050 Werkstofftechnik
+ÖFOS;206 Medizintechnik;206 Medizintechnik;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2060 Medizintechnik;2060 Medizintechnik;2 - TECHNISCHE WISSENSCHAFTEN/206 Medizintechnik
+ÖFOS;206001 Biomedizinische Technik;206001 Biomedical engineering;2 - TECHNISCHE WISSENSCHAFTEN/206 Medizintechnik/2060 Medizintechnik
+ÖFOS;206002 Elektromedizinische Technik;206002 Electro-medical engineering;2 - TECHNISCHE WISSENSCHAFTEN/206 Medizintechnik/2060 Medizintechnik
+ÖFOS;206003 Medizinische Physik;206003 Medical physics;2 - TECHNISCHE WISSENSCHAFTEN/206 Medizintechnik/2060 Medizintechnik
+ÖFOS;206004 Medizintechnik;206004 Medical engineering;2 - TECHNISCHE WISSENSCHAFTEN/206 Medizintechnik/2060 Medizintechnik
+ÖFOS;206005 Prothetik;206005 Prosthetics;2 - TECHNISCHE WISSENSCHAFTEN/206 Medizintechnik/2060 Medizintechnik
+ÖFOS;207 Umweltingenieurwesen, Angewandte Geowissenschaften;207 Umweltingenieurwesen, Angewandte Geowissenschaften;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2071 Umwelttechnik;2071 Umwelttechnik;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften
+ÖFOS;207101 Abfalltechnik;207101 Waste engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207102 Abluftreinigung;207102 Exhaust air purification;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207103 Abwasserreinigung;207103 Wastewater treatment;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207104 Altlastensanierung;207104 Remediation of contaminated sites;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207105 Deponietechnik;207105 Landfill technology ;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207106 Erneuerbare Energie;207106 Renewable energy;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207107 Luftreinhaltung;207107 Air pollution control;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207108 Recycling;207108 Recycling;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207109 Schadstoffemission;207109 Pollutant emission;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207110 Technischer Umweltschutz;207110 Technical environmental protection;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207111 Umwelttechnik;207111 Environmental engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207112 Wasseraufbereitung;207112 Water treatment;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207113 Wasserinfrastruktur;207113 Water infrastructure;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;207114 Wasserwirtschaft;207114 Water management;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2071 Umwelttechnik
+ÖFOS;2072 Ingenieurgeologie, Geotechnik;2072 Ingenieurgeologie, Geotechnik;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften
+ÖFOS;207201 Bodenmechanik;207201 Soil mechanics;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;207202 Erdbau;207202 Earthworks;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;207203 Felsmechanik;207203 Rock mechanics;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;207204 Geotechnik;207204 Geotechnics;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;207205 Grundbau;207205 Foundation engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;207206 Ingenieurgeologie;207206 Engineering geology;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;207207 Tunnelbau;207207 Tunnelling;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2072 Ingenieurgeologie, Geotechnik
+ÖFOS;2073 Bergbau, ErdÖlgewinnung;2073 Bergbau, ErdÖlgewinnung;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften
+ÖFOS;207301 Aufbereitung mineralischer Rohstoffe;207301 Processing of mineral raw materials;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207302 Bergbaukunde;207302 Mining engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207303 Bergschadenkunde;207303 Mining damage;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207304 Erdgasgewinnung;207304 Natural gas production;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207305 Erdgastechnik;207305 Natural gas engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207306 ErdÖlgeologie ;207306 Petroleum geology;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207307 ErdÖlgewinnung;207307 Petroleum production;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207308 ErdÖltechnik;207308 Petroleum engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207309 Geschichte des Bergbaus;207309 History of mining;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207310 Gewinnung mineralischer Rohstoffe;207310 Extraction of mineral raw materials;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207311 LagerstÖttenkunde;207311 Economic geology;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207312 Markscheidekunde;207312 Mine surveying;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207313 Tiefbohrtechnik;207313 Drilling engineering;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;207314 Untertagebau;207314 Underground mining;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2073 Bergbau, ErdÖlgewinnung
+ÖFOS;2074 GeodÖsie, Vermessungswesen;2074 GeodÖsie, Vermessungswesen;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften
+ÖFOS;207401 3D-Vermessung;207401 3D-surveying;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207402 Fernerkundung;207402 Remote sensing;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207403 GeodÖsie;207403 Geodesy;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207404 Geoinformatik;207404 Geoinformatics;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207405 IngenieurgeodÖsie;207405 Engineering geodesy;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207406 Kartographie;207406 Cartography;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207407 Katastervermessung;207407 Cadastral surveying;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207408 Landesvermessung;207408 Land surveying;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207409 Navigationssysteme;207409 Navigation systems;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207410 Photogrammetrie;207410 Photogrammetry;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207411 SatellitengeodÖsie;207411 Satellite geodesy;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207412 SatellitengestÖtzte Koordinatenmessung;207412 Satellite-based coordinate measuring;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;207413 Vermessungswesen;207413 Surveying;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2074 GeodÖsie, Vermessungswesen
+ÖFOS;2079 Sonstiges Umweltingenieurwesen, Angewandte Geowissenschaften;2079 Sonstiges Umweltingenieurwesen, Angewandte Geowissenschaften;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften
+ÖFOS;207901 Offshore-Technik;207901 Offshore technology;2 - TECHNISCHE WISSENSCHAFTEN/207 Umweltingenieurwesen, Angewandte Geowissenschaften/2079 Sonstiges Umweltingenieurwesen, Angewandte Geowissenschaften
+ÖFOS;208 Umweltbiotechnologie;208 Umweltbiotechnologie;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2080 Umweltbiotechnologie;2080 Umweltbiotechnologie;2 - TECHNISCHE WISSENSCHAFTEN/208 Umweltbiotechnologie
+ÖFOS;208001 Bioremediation;208001 Bioremediation;2 - TECHNISCHE WISSENSCHAFTEN/208 Umweltbiotechnologie/2080 Umweltbiotechnologie
+ÖFOS;208002 Ethik in der Umweltbiotechnologie;208002 Environmental biotechnology related ethics;2 - TECHNISCHE WISSENSCHAFTEN/208 Umweltbiotechnologie/2080 Umweltbiotechnologie
+ÖFOS;208003 Umweltbiotechnologie;208003 Environmental biotechnology;2 - TECHNISCHE WISSENSCHAFTEN/208 Umweltbiotechnologie/2080 Umweltbiotechnologie
+ÖFOS;209 Industrielle Biotechnologie;209 Industrielle Biotechnologie;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2090 Industrielle Biotechnologie;2090 Industrielle Biotechnologie;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie
+ÖFOS;209001 Biokatalyse;209001 Biocatalysis;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie/2090 Industrielle Biotechnologie
+ÖFOS;209002 Bioprozesstechnik;209002 Bioprocess technology;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie/2090 Industrielle Biotechnologie
+ÖFOS;209003 Biotreibstoffe;209003 Biofuels;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie/2090 Industrielle Biotechnologie
+ÖFOS;209004 Enzymtechnologie;209004 Enzyme technology;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie/2090 Industrielle Biotechnologie
+ÖFOS;209005 Fermentation;209005 Fermentation;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie/2090 Industrielle Biotechnologie
+ÖFOS;209006 Industrielle Biotechnologie;209006 Industrial biotechnology;2 - TECHNISCHE WISSENSCHAFTEN/209 Industrielle Biotechnologie/2090 Industrielle Biotechnologie
+ÖFOS;210 Nanotechnologie;210 Nanotechnologie;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2100 Nanotechnologie;2100 Nanotechnologie;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie
+ÖFOS;210001 Nanoanalytik;210001 Nanoanalytics;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie/2100 Nanotechnologie
+ÖFOS;210002 Nanobiotechnologie;210002 Nanobiotechnology;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie/2100 Nanotechnologie
+ÖFOS;210003 Nanoelektronik;210003 Nanoelectronics;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie/2100 Nanotechnologie
+ÖFOS;210004 Nanomaterialien;210004 Nanomaterials;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie/2100 Nanotechnologie
+ÖFOS;210005 Nanophotonik;210005 Nanophotonics;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie/2100 Nanotechnologie
+ÖFOS;210006 Nanotechnologie;210006 Nanotechnology;2 - TECHNISCHE WISSENSCHAFTEN/210 Nanotechnologie/2100 Nanotechnologie
+ÖFOS;211 Andere Technische Wissenschaften;211 Andere Technische Wissenschaften;2 - TECHNISCHE WISSENSCHAFTEN
+ÖFOS;2111 Metallurgie;2111 Metallurgie;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften
+ÖFOS;211101 Eisen- und Stahlmetallurgie;211101 Iron and steel metallurgy;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2111 Metallurgie
+ÖFOS;211102 GieÖereitechnik;211102 Casting technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2111 Metallurgie
+ÖFOS;211103 Metallkunde;211103 Physical metallurgy;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2111 Metallurgie
+ÖFOS;211104 Metallurgie;211104 Metallurgy;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2111 Metallurgie
+ÖFOS;211105 Nichteisenmetallurgie;211105 Nonferrous metallurgy;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2111 Metallurgie
+ÖFOS;211106 Leichtmetalle;211106 Light metals;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2111 Metallurgie
+ÖFOS;2112 Lebensmitteltechnologie;2112 Lebensmitteltechnologie;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften
+ÖFOS;211201 Getreidetechnologie;211201 Grain technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2112 Lebensmitteltechnologie
+ÖFOS;211202 Lebensmitteltechnologie;211202 Food technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2112 Lebensmitteltechnologie
+ÖFOS;211203 Lebensmittelverfahrenstechnik;211203 Food processing engineering;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2112 Lebensmitteltechnologie
+ÖFOS;211204 Fleischtechnologie;211204 Meat technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2112 Lebensmitteltechnologie
+ÖFOS;2119 Sonstige Technische Wissenschaften;2119 Sonstige Technische Wissenschaften;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften
+ÖFOS;211901 Abfallvermeidung;211901 Waste prevention;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211902 Assistierende Technologien;211902 Assistive technologies;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211903 Betriebswissenschaften;211903 Science of management;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211904 Biomechanik;211904 Biomechanics;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211905 Bionik;211905 Bionics;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211906 Brandschutz;211906 Fire protection;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211907 Energieeinsparung;211907 Energy saving;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211908 Energieforschung;211908 Energy research;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211909 Energietechnik;211909 Energy technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211910 LÖrmschutz;211910 Noise protection;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211911 Nachhaltige Technologien;211911 Sustainable technologies;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211912 Produktgestaltung;211912 Product design;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211913 QualitÖtssicherung;211913 Quality assurance;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211914 Risikoforschung;211914 Risk research;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211915 Solartechnik;211915 Solar technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211916 Sprengtechnik;211916 Blasting engineering;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211917 TechnikfolgenabschÖtzung;211917 Technology assessment;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211918 Technikgeschichte;211918 Technical history;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211919 Thermographie;211919 Thermography;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211920 Verpackungstechnik;211920 Packaging technology;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211921 Zivil- und Katastrophenschutz;211921 Civil protection and disaster control;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211922 Energiespeicherung;211922 Energy storage;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;211923 Fabrikplanung;211923 Factory planning;2 - TECHNISCHE WISSENSCHAFTEN/211 Andere Technische Wissenschaften/2119 Sonstige Technische Wissenschaften
+ÖFOS;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN;
+ÖFOS;301 Medizinisch-theoretische Wissenschaften, Pharmazie;301 Medizinisch-theoretische Wissenschaften, Pharmazie;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN
+ÖFOS;3011 Anatomie, Pathologie, Physiologie;3011 Anatomie, Pathologie, Physiologie;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie
+ÖFOS;301101 Allgemeine Pathologie;301101 General pathology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301102 Anatomie;301102 Anatomy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301103 Diagnostik in der Medizin;301103 Medical diagnostics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301104 Embryologie;301104 Embryology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301105 Experimentelle Pathologie;301105 Experimental pathology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301106 Funktionelle Anatomie;301106 Functional anatomy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301107 Histologie;301107 Histology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301108 Molekulare Pathologie;301108 Molecular pathology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301109 Pathophysiologie;301109 Pathophysiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301110 Physiologie;301110 Physiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301111 RÖntgenanatomie;301111 Radiologic anatomy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301112 Systematische Anatomie;301112 Systematic anatomy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301113 Topographische Anatomie;301113 Topographic anatomy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;301114 Zellbiologie;301114 Cell biology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3011 Anatomie, Pathologie, Physiologie
+ÖFOS;3012 Pharmazie, Pharmakologie, Toxikologie;3012 Pharmazie, Pharmakologie, Toxikologie;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie
+ÖFOS;301201 Arzneimittel-, Arzneistoffanalyse;301201 Pharmaceutical and drug analysis;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301202 Geschichte der Pharmazie;301202 History of pharmacy ;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301203 Pharmakodynamik;301203 Pharmacodynamics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301204 Pharmakognosie;301204 Pharmacognosy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301205 Pharmakokinetik;301205 Pharmacokinetics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301206 Pharmakologie;301206 Pharmacology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301207 Pharmazeutische Chemie;301207 Pharmaceutical chemistry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301208 Pharmazeutische Technologie;301208 Pharmaceutical technology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301209 Pharmazie;301209 Pharmacy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301210 Psychopharmakologie;301210 Psychopharmacology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301211 Toxikologie;301211 Toxicology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301212 Klinische Pharmazie;301212 Clinical pharmacy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;301213 Drug Targeting;301213 Drug targeting;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3012 Pharmazie, Pharmakologie, Toxikologie
+ÖFOS;3013 Medizinische Biochemie, Humangenetik;3013 Medizinische Biochemie, Humangenetik;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie
+ÖFOS;301301 Humangenetik;301301 Human genetics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;301302 Lipidforschung;301302 Lipidomics research;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;301303 Medizinische Biochemie;301303 Medical biochemistry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;301304 Medizinische Biologie;301304 Medical biology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;301305 Medizinische Chemie;301305 Medical chemistry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;301306 Medizinische Molekularbiologie;301306 Medical molecular biology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;301307 Zytogenetik;301307 Cytogenetics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3013 Medizinische Biochemie, Humangenetik
+ÖFOS;3014 Neurowissenschaften;3014 Neurowissenschaften;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie
+ÖFOS;301401 Hirnforschung;301401 Brain research;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301402 Neurobiologie;301402 Neurobiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301403 Neurochemie;301403 Neurochemistry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301404 Neuroimmunologie;301404 Neuroimmunology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301405 Neuropathologie;301405 Neuropathology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301406 Neuropharmakologie;301406 Neuropharmacology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301407 Neurophysiologie;301407 Neurophysiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;301408 Psychophysiologie;301408 Psychophysiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3014 Neurowissenschaften
+ÖFOS;3019 Sonstige Medizinisch-theoretische Wissenschaften;3019 Sonstige Medizinisch-theoretische Wissenschaften;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie
+ÖFOS;301901 Blutgruppenserologie;301901 Blood group serology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3019 Sonstige Medizinisch-theoretische Wissenschaften
+ÖFOS;301902 Immunologie;301902 Immunology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3019 Sonstige Medizinisch-theoretische Wissenschaften
+ÖFOS;301903 Impfstoffentwicklung;301903 Vaccine development;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3019 Sonstige Medizinisch-theoretische Wissenschaften
+ÖFOS;301904 Krebsforschung;301904 Cancer research;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3019 Sonstige Medizinisch-theoretische Wissenschaften
+ÖFOS;301905 Psychoneuroimmunologie;301905 Psychoneuroimmunology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3019 Sonstige Medizinisch-theoretische Wissenschaften
+ÖFOS;301906 Serologie;301906 Serology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/301 Medizinisch-theoretische Wissenschaften, Pharmazie/3019 Sonstige Medizinisch-theoretische Wissenschaften
+ÖFOS;302 Klinische Medizin;302 Klinische Medizin;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN
+ÖFOS;3020 Klinische Medizin;3020 Klinische Medizin;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin
+ÖFOS;302001 Akupunktur;302001 Acupuncture;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302002 Allergologie;302002 Allergology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302003 Allgemeinchirurgie;302003 General surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302004 AnÖsthesiologie;302004 Anaesthesiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302005 Andrologie;302005 Andrology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302006 Angiologie;302006 Angiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302007 Augenheilkunde;302007 Ophthalmology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302008 Balneologie;302008 Balneology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302009 Chemotherapie;302009 Chemotherapy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302010 Computertomographie (CT);302010 Computed tomography (CT);3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302011 Dermatologie;302011 Dermatology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302012 Diabetologie;302012 Diabetology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302013 Diagnostik in der Medizin;302013 Medical diagnostics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302014 Endokrinologie;302014 Endocrinology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302015 Experimentelle Chirurgie;302015 Experimental surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302016 Gastroenterologie;302016 Gastroenterology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302017 Geburtshilfe;302017 Obstetrics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302018 GefÖÖchirurgie;302018 Vascular surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302019 Geriatrie;302019 Geriatrics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302020 Gerontologie;302020 Gerontology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302021 Geschichte der Psychiatrie;302021 History of psychiatry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302022 GynÖkologie;302022 Gynaecology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302023 Hals-, Nasen-, Ohrenheilkunde;302023 Ear, nose and throat medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302024 HÖmatologie;302024 Haematology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302025 Hepatologie;302025 Hepatology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302026 Herzchirurgie;302026 Heart surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302027 HÖr-, Stimm- und SprachstÖrungen;302027 Hearing, voice and language disorders;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302028 Hyperbare Medizin;302028 Hyperbaric medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302029 Implantologie;302029 Implantology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302030 Innere Medizin;302030 Internal medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302031 Intensivmedizin;302031 Intensive care medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302032 Kardiologie;302032 Cardiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302033 Kieferchirurgie;302033 Oral surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302034 KieferorthopÖdie;302034 Orthodontics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302035 Kinder- und Jugendheilkunde;302035 Paediatrics and adolescent medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302036 Kinder- und Jugendpsychiatrie;302036 Child and adolescent psychiatry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302037 Kinderchirurgie;302037 Paediatric surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302038 Klinische Neuropsychologie;302038 Clinical neuropsychology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302039 KomplementÖrmedizin;302039 Complementary medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302040 Labordiagnostik;302040 Laboratory diagnostics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302041 Laserchirurgie;302041 Laser surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302042 LogopÖdie;302042 Logopedics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302043 Magnetresonanztomographie (MRT);302043 Magnetic resonance imaging (MRI);3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302044 Medizinische Physik;302044 Medical physics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302045 Medizinische Psychologie;302045 Medical psychology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302046 Medizinische Psychotherapie;302046 Medical psychotherapy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302047 Mikrochirurgie;302047 Microsurgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302048 Minimal-invasive Chirurgie;302048 Minimally invasive surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302049 Neonatologie;302049 Neonatology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302050 Nephrologie;302050 Nephrology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302051 Neurochirurgie;302051 Neurosurgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302052 Neurologie;302052 Neurology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302053 Notfallmedizin;302053 Emergency medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302054 Nuklearmedizin;302054 Nuclear medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302055 Onkologie;302055 Oncology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302056 Onkologische Chirurgie;302056 Oncological surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302057 OrthopÖdie;302057 Orthopaedics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302058 Palliativmedizin;302058 Palliative medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302059 Parodontologie;302059 Periodontology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302060 Perinatologie;302060 Perinatology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302061 Physikalische Medizin;302061 Physical medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302062 Plastische und Rekonstruktive Chirurgie;302062 Plastic and reconstructive surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302063 Polytraumaversorgung;302063 Multiple trauma care;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302064 PrÖnatale Diagnostik;302064 Prenatal diagnostics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302065 Psychiatrie;302065 Clinical psychiatry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302066 Psychopathologie;302066 Psychopathology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302067 Psychosomatik;302067 Psychosomatics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302068 Pulmologie;302068 Pulmology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302069 Radiochirurgie;302069 Radiosurgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302070 Radiodiagnostik;302070 Radiodiagnostics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302071 Radiologie;302071 Radiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302072 Rheumatologie;302072 Rheumatology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302073 Schlafmedizin;302073 Sleep medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302074 Schmerzmedizin;302074 Pain medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302075 Sonographie;302075 Sonography;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302076 Sozialpsychiatrie;302076 Social psychiatry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302077 Stammzellentransplantation;302077 Stem cell transplantation;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302078 Stoffwechselerkrankungen;302078 Metabolic diseases;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302079 Strahlenschutz;302079 Radiation protection;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302080 Strahlentherapie;302080 Radiotherapy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302081 Thoraxchirurgie;302081 Thoracic surgery ;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302082 Transfusionsmedizin;302082 Transfusion medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302083 Transplantationschirurgie;302083 Transplant surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302084 Transplantationsmedizin;302084 Transplantation medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302085 Unfallchirurgie;302085 Trauma surgery;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302086 Urologie;302086 Urology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302087 Venerologie;302087 Venereology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302088 Zahn-, Mund- und Kieferheilkunde;302088 Dentistry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302089 Reproduktionsmedizin;302089 Reproductive medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302090 Allgemeinmedizin;302090 General practice;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;302091 Immuntherapie;302091 Immunotherapy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/302 Klinische Medizin/3020 Klinische Medizin
+ÖFOS;303 Gesundheitswissenschaften;303 Gesundheitswissenschaften;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN
+ÖFOS;3030 Gesundheitswissenschaften;3030 Gesundheitswissenschaften;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften
+ÖFOS;303001 Arbeitsmedizin;303001 Occupational medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303002 Bakteriologie;303002 Bacteriology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303003 Berufskrankheiten;303003 Occupational diseases;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303004 Bewegungswissenschaft;303004 Kinesiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303005 Biomechanik des Sports;303005 Sports biomechanics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303006 DiÖtologie;303006 Dietetics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303007 Epidemiologie;303007 Epidemiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303008 Ergonomie;303008 Ergonomics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303009 ErnÖhrungswissenschaften;303009 Nutritional sciences;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303010 GesundheitsÖkonomie;303010 Health economics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303011 Gesundheitspolitik;303011 Health policy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303012 Gesundheitswissenschaften;303012 Health sciences;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303013 Hygiene;303013 Hygiene;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303014 Impfschutz;303014 Vaccine protection;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303015 Krankenhaushygiene;303015 Hospital hygiene;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303016 Krankenhausmanagement;303016 Hospital management;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303017 Lebensmittelhygiene;303017 Food hygiene;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303018 Lufthygiene;303018 Air hygiene;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303019 Medizinische Ethik;303019 Medical ethics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303020 Medizinische Mikrobiologie;303020 Medical microbiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303021 Medizinische Rehabilitation;303021 Medical rehabilitation;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303022 Palliativpflege;303022 Palliative care;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303023 Parasitologie;303023 Parasitology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303024 Pflegewissenschaft;303024 Nursing science;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303025 PrÖventivmedizin;303025 Preventive medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303026 Public Health;303026 Public health;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303027 Sozialmedizin;303027 Social medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303028 Sportwissenschaft;303028 Sport science;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303029 Suchtforschung;303029 Addiction research;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303030 Trainingswissenschaft;303030 Training science;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303031 Tropenmedizin;303031 Tropical medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303032 Umwelthygiene;303032 Environmental hygiene;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303033 Umweltmedizin;303033 Environmental medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303034 Virologie;303034 Virology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303035 Wasserhygiene;303035 Water hygiene;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;303036 Patientensicherheit;303036 Patient safety;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/303 Gesundheitswissenschaften/3030 Gesundheitswissenschaften
+ÖFOS;304 Medizinische Biotechnologie;304 Medizinische Biotechnologie;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN
+ÖFOS;3040 Medizinische Biotechnologie;3040 Medizinische Biotechnologie;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie
+ÖFOS;304001 Ethik in der Medizinischen Biotechnologie;304001 Medical biotechnology related ethics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;304002 Genetische Diagnostik;304002 Genetic diagnostics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;304003 Gentechnik;304003 Genetic engineering;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;304004 Gentherapie;304004 Gene therapy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;304005 Medizinische Biotechnologie;304005 Medical biotechnology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;304006 Pharmakogenomik;304006 Pharmacogenomics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;304007 Tissue Engineering;304007 Tissue engineering;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/304 Medizinische Biotechnologie/3040 Medizinische Biotechnologie
+ÖFOS;305 Andere Humanmedizin, Gesundheitswissenschaften;305 Andere Humanmedizin, Gesundheitswissenschaften;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN
+ÖFOS;3051 Gerichtsmedizin;3051 Gerichtsmedizin;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305101 Blutspurenanalyse;305101 Bloodstain pattern analysis;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305102 DNA-Analyse (Gerichtsmedizin);305102 DNA analysis (Forensic medicine);3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305103 Forensische Biologie;305103 Forensic biology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305104 Forensische Chemie;305104 Forensic chemistry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305105 Forensische Psychiatrie;305105 Forensic psychiatry;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305106 Forensische Radiologie;305106 Forensic radiology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305107 Forensische Toxikologie;305107 Forensic toxicology;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;305108 Gerichtliche Humanmedizin;305108 Forensic human medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3051 Gerichtsmedizin
+ÖFOS;3059 Sonstige Humanmedizin, Gesundheitswissenschaften;3059 Sonstige Humanmedizin, Gesundheitswissenschaften;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305901 ComputerunterstÖtzte Diagnose und Therapie;305901 Computer-aided diagnosis and therapy;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305902 Gender Medizin;305902 Gender medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305903 Geschichte der Medizin;305903 History of medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305904 Medizinische Dokumentation;305904 Medical documentation;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305905 Medizinische Informatik;305905 Medical informatics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305906 Medizinische Kybernetik;305906 Medical cybernetics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305907 Medizinische Statistik;305907 Medical statistics;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305908 Sportmedizin;305908 Sports medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305909 Stressforschung;305909 Stress research;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;305910 Verkehrsmedizin;305910 Traffic medicine;3 - HUMANMEDIZIN, GESUNDHEITSWISSENSCHAFTEN/305 Andere Humanmedizin, Gesundheitswissenschaften/3059 Sonstige Humanmedizin, Gesundheitswissenschaften
+ÖFOS;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN;
+ÖFOS;401 Land- und Forstwirtschaft, Fischerei;401 Land- und Forstwirtschaft, Fischerei;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN
+ÖFOS;4011 Ackerbau, Gartenbau;4011 Ackerbau, Gartenbau;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei
+ÖFOS;401101 Ackerbau;401101 Cultivation of land;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401102 BewÖsserungswirtschaft;401102 Irrigation management;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401103 Gartenbau;401103 Horticulture;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401104 GemÖsebau;401104 Vegetable growing;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401105 Getreidebau;401105 Grain cultivation ;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401106 Landschaftspflege;401106 Landscape conservation;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401107 Landtechnik;401107 Agricultural engineering;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401108 Obstbau;401108 Fruit growing;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401109 Ökologischer Landbau;401109 Organic farming;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401110 Pflanzenbau;401110 Plant cultivation;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401111 PflanzenernÖhrung;401111 Plant nutrition;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401112 Pflanzenschutz;401112 Plant protection;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401113 Pflanzenzucht;401113 Plant breeding;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401114 Saatzucht;401114 Seed breeding;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401115 Samenzucht;401115 Seed cultivation;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401116 Spezialkulturen;401116 Special crops;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401117 Weinbau;401117 Viticulture;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;401118 Zierpflanzenbau;401118 Cultivation of ornamental plants;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4011 Ackerbau, Gartenbau
+ÖFOS;4012 Forst- und Holzwirtschaft;4012 Forst- und Holzwirtschaft;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei
+ÖFOS;401201 Forstentomologie;401201 Forest entomology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401202 Forstpathologie;401202 Forest pathology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401203 Forstschutz;401203 Forest protection;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401204 Forsttechnik;401204 Forest engineering;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401205 Forstwirtschaft;401205 Forestry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401206 Holzwirtschaft;401206 Wood industry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401207 Waldbau;401207 Silviculture;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;401208 WaldÖkologie;401208 Forest ecology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4012 Forst- und Holzwirtschaft
+ÖFOS;4019 Sonstige Land- und Forstwirtschaft, Fischerei;4019 Sonstige Land- und Forstwirtschaft, Fischerei;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei
+ÖFOS;401901 Bodenerosion;401901 Soil erosion;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4019 Sonstige Land- und Forstwirtschaft, Fischerei
+ÖFOS;401902 Bodenkunde;401902 Soil science;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4019 Sonstige Land- und Forstwirtschaft, Fischerei
+ÖFOS;401903 Fischerei;401903 Fishery;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4019 Sonstige Land- und Forstwirtschaft, Fischerei
+ÖFOS;401904 Geschichte der Land- und Forstwirtschaft;401904 History of agriculture and forestry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4019 Sonstige Land- und Forstwirtschaft, Fischerei
+ÖFOS;401905 Nachwachsende Rohstoffe;401905 Renewable resources;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/401 Land- und Forstwirtschaft, Fischerei/4019 Sonstige Land- und Forstwirtschaft, Fischerei
+ÖFOS;402 Tierzucht, Tierproduktion;402 Tierzucht, Tierproduktion;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN
+ÖFOS;4020 Tierzucht, Tierproduktion;4020 Tierzucht, Tierproduktion;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion
+ÖFOS;402001 Bienenkunde;402001 Apiology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402002 Fischkunde;402002 Ichthyology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402003 Fleischhygiene;402003 Meat hygiene;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402004 Fleischproduktion;402004 Meat production;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402005 Futtermittelanalyse;402005 Feed analysis;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402006 Haustierzucht;402006 Pet breeding;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402007 Imkerei;402007 Apiculture;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402008 KÖnstliche Besamung;402008 Artificial insemination;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402009 Lebensmitteluntersuchung;402009 Food testing;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402010 Milchhygiene;402010 Milk hygiene;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402011 Milchproduktion;402011 Milk production;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402012 Nutztierethologie;402012 Livestock ethology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402013 TierernÖhrung;402013 Animal nutrition;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402014 Tierhaltung;402014 Animal husbandry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402015 Tierproduktion;402015 Animal production;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402016 Tierschutz;402016 Animal welfare;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402017 Tierzucht;402017 Animal breeding;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;402018 Versuchstierkunde;402018 Laboratory animal science;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/402 Tierzucht, Tierproduktion/4020 Tierzucht, Tierproduktion
+ÖFOS;403 VeterinÖrmedizin;403 VeterinÖrmedizin;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN
+ÖFOS;4030 VeterinÖrmedizin;4030 VeterinÖrmedizin;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin
+ÖFOS;403001 AnÖsthesiologie (VeterinÖrmedizin);403001 Veterinary anaesthesiology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403002 Anatomie (VeterinÖrmedizin);403002 Veterinary anatomy;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403003 Andrologie (VeterinÖrmedizin);403003 Veterinary andrology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403004 Augenheilkunde (VeterinÖrmedizin);403004 Veterinary ophthalmology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403005 Bakteriologie (VeterinÖrmedizin);403005 Veterinary bacteriology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403006 Bildgebende Diagnostik (VeterinÖrmedizin);403006 Veterinary diagnostic imaging;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403007 Chirurgie (VeterinÖrmedizin);403007 Veterinary surgery;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403008 Diagnostik (VeterinÖrmedizin);403008 Veterinary diagnostics;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403009 Embryologie (VeterinÖrmedizin);403009 Veterinary embryology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403010 Geburtshilfe (VeterinÖrmedizin);403010 Veterinary obstetrics;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403011 Gerichtliche VeterinÖrmedizin;403011 Forensic veterinary medicine;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403012 Geschichte der VeterinÖrmedizin;403012 History of veterinary medicine;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403013 GynÖkologie (VeterinÖrmedizin);403013 Veterinary gynaecology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403014 Histologie (VeterinÖrmedizin);403014 Veterinary histology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403015 Hygiene (VeterinÖrmedizin);403015 Veterinary hygiene;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403016 Immunologie (VeterinÖrmedizin);403016 Veterinary immunology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403017 Interne Medizin (VeterinÖrmedizin);403017 Veterinary internal medicine;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403018 Labordiagnostik (VeterinÖrmedizin);403018 Veterinary laboratory diagnostics;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403019 Medizinische Biochemie (VeterinÖrmedizin);403019 Veterinary medical biochemistry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403020 Medizinische Chemie (VeterinÖrmedizin);403020 Veterinary medical chemistry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403021 Neurologie (VeterinÖrmedizin);403021 Veterinary neurology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403022 OrthopÖdie (VeterinÖrmedizin);403022 Veterinary orthopaedics;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403023 Parasitologie (VeterinÖrmedizin);403023 Veterinary parasitology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403024 Pathologie (VeterinÖrmedizin);403024 Veterinary pathology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403025 Pharmakologie (VeterinÖrmedizin);403025 Veterinary pharmacology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403026 Physiologie (VeterinÖrmedizin);403026 Veterinary physiology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403027 Phytotherapie (VeterinÖrmedizin);403027 Veterinary phytotherapy;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403028 TierernÖhrung;403028 Animal nutrition;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403029 TierseuchenbekÖmpfung;403029 Control of animal diseases;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403030 Toxikologie (VeterinÖrmedizin);403030 Veterinary toxicology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403031 Virologie (VeterinÖrmedizin);403031 Veterinary virology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403032 Zahnheilkunde (VeterinÖrmedizin);403032 Veterinary dentistry;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;403033 Regenerative Medizin (VeterinÖrmedizin);403033 Veterinary regenerative medicine;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/403 VeterinÖrmedizin/4030 VeterinÖrmedizin
+ÖFOS;404 Agrarbiotechnologie, Lebensmittelbiotechnologie;404 Agrarbiotechnologie, Lebensmittelbiotechnologie;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN
+ÖFOS;4040 Agrarbiotechnologie, Lebensmittelbiotechnologie;4040 Agrarbiotechnologie, Lebensmittelbiotechnologie;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404001 Agrarbiotechnologie;404001 Agricultural biotechnology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404002 Biopharming;404002 Biopharming;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404003 Ethik in der Agrar- und Lebensmittelbiotechnologie;404003 Agricultural and food biotechnology related ethics;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404004 Fermentation;404004 Fermentation;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404005 GÖrungstechnologie;404005 Fermentation technology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404006 Gentechnik;404006 Genetic engineering;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;404007 Lebensmittelbiotechnologie;404007 Food biotechnology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/404 Agrarbiotechnologie, Lebensmittelbiotechnologie/4040 Agrarbiotechnologie, Lebensmittelbiotechnologie
+ÖFOS;405 Andere Agrarwissenschaften;405 Andere Agrarwissenschaften;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN
+ÖFOS;4050 Andere Agrarwissenschaften;4050 Andere Agrarwissenschaften;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/405 Andere Agrarwissenschaften
+ÖFOS;405001 AgrarÖkologie;405001 Agroecology;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/405 Andere Agrarwissenschaften/4050 Andere Agrarwissenschaften
+ÖFOS;405002 AgrarÖkonomie;405002 Agricultural economics;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/405 Andere Agrarwissenschaften/4050 Andere Agrarwissenschaften
+ÖFOS;405003 Agrarpolitik;405003 Agricultural policy;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/405 Andere Agrarwissenschaften/4050 Andere Agrarwissenschaften
+ÖFOS;405004 Nachhaltige Landwirtschaft;405004 Sustainable agriculture;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/405 Andere Agrarwissenschaften/4050 Andere Agrarwissenschaften
+ÖFOS;405005 Wildtierkunde;405005 Wildlife science;4 - AGRARWISSENSCHAFTEN, VETERINÖRMEDIZIN/405 Andere Agrarwissenschaften/4050 Andere Agrarwissenschaften
+ÖFOS;5 - SOZIALWISSENSCHAFTEN;5 - SOZIALWISSENSCHAFTEN;
+ÖFOS;501 Psychologie;501 Psychologie;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5010 Psychologie;5010 Psychologie;5 - SOZIALWISSENSCHAFTEN/501 Psychologie
+ÖFOS;501001 Allgemeine Psychologie;501001 General psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501002 Angewandte Psychologie;501002 Applied psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501003 Arbeitspsychologie;501003 Occupational psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501004 Differentielle Psychologie;501004 Differential psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501005 Entwicklungspsychologie;501005 Developmental psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501006 Experimentalpsychologie;501006 Experimental psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501007 Geschichte der Psychologie;501007 History of psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501008 Gruppendynamik;501008 Group dynamics;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501009 Kinder- und Jugendpsychologie;501009 Child and adolescent psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501010 Klinische Psychologie;501010 Clinical psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501011 Kognitionspsychologie;501011 Cognitive psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501012 Medienpsychologie;501012 Media psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501013 Motivationspsychologie;501013 Motivational psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501014 Neuropsychologie;501014 Neuropsychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501015 Organisationspsychologie;501015 Organisational psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501016 PÖdagogische Psychologie;501016 Educational psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501017 Psychoanalyse;501017 Psychoanalysis;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501018 Psychologische Diagnostik;501018 Psychological diagnostics;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501019 Psychotherapie;501019 Psychotherapy;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501020 Rechtspsychologie;501020 Legal psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501021 Sozialpsychologie;501021 Social psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501022 Suizidologie;501022 Suicidology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501023 Tiefenpsychologie;501023 Depth psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501024 Verhaltenstherapie;501024 Behavioural therapy;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501025 Verkehrspsychologie;501025 Traffic psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501026 Wahrnehmungspsychologie;501026 Psychology of perception;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501027 Musiktherapie;501027 Music therapy;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501028 Psychosoziale Notfallversorgung (PSNV);501028 Psychosocial support in emergencies;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501029 Wirtschaftspsychologie;501029 Economic psychology;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;501030 Kognitionswissenschaft;501030 Cognitive science;5 - SOZIALWISSENSCHAFTEN/501 Psychologie/5010 Psychologie
+ÖFOS;502 Wirtschaftswissenschaften;502 Wirtschaftswissenschaften;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5020 Wirtschaftswissenschaften;5020 Wirtschaftswissenschaften;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften
+ÖFOS;502001 Arbeitsmarktpolitik;502001 Labour market policy;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502002 Arbeitsmarkttheorie;502002 Labour economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502003 AuÖenhandel;502003 Foreign trade;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502004 Bankbetriebslehre;502004 Banking management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502005 BildungsÖkonomie;502005 Economics of education;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502006 Controlling;502006 Controlling;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502007 E-Commerce;502007 E-commerce;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502008 EntwicklungsÖkonomie;502008 Development economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502009 Finanzwirtschaft;502009 Corporate finance;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502010 Finanzwissenschaft;502010 Public finance;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502011 Genossenschaftswesen;502011 Cooperative systems;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502012 Industriebetriebslehre;502012 Industrial management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502013 IndustrieÖkonomik;502013 Industrial economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502014 Innovationsforschung;502014 Innovation research;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502015 Innovationsmanagement;502015 Innovation management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502016 KMU-Forschung;502016 SME-research;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502017 Logistik;502017 Logistics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502018 MakroÖkonomie;502018 Macroeconomics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502019 Marketing;502019 Marketing;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502020 Marktforschung;502020 Market research;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502021 MikroÖkonomie;502021 Microeconomics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502022 Nachhaltiges Wirtschaften;502022 Sustainable economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502023 NPO-Forschung;502023 NPO research;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502024 Öffentliche Wirtschaft;502024 Public economy;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502025 Ökonometrie;502025 Econometrics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502026 Personalmanagement;502026 Human resource management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502027 Politische Ökonomie;502027 Political economy;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502028 Produktionswirtschaft;502028 Production management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502029 Produktmanagement;502029 Product management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502030 Projektmanagement;502030 Project management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502031 Public Management;502031 Public management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502032 QualitÖtsmanagement;502032 Quality management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502033 Rechnungswesen;502033 Accounting;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502034 RegulierungsÖkonomik;502034 Regulatory economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502035 Revisions- und Treuhandwesen;502035 Auditing and trusts;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502036 Risikomanagement;502036 Risk management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502037 Standortplanung;502037 Location planning;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502038 Steuerlehre;502038 Taxation;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502039 Strukturpolitik;502039 Structural policy;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502040 Tourismusforschung;502040 Tourism research;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502041 Umweltmanagement;502041 Environmental management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502042 UmweltÖkonomie;502042 Environmental economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502043 Unternehmensberatung;502043 Business consultancy;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502044 UnternehmensfÖhrung;502044 Business management;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502045 VerhaltensÖkonomie;502045 Behavioural economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502046 Volkswirtschaftspolitik;502046 Economic policy;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502047 Volkswirtschaftstheorie;502047 Economic theory;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502048 Wirtschaftsethik;502048 Business ethics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502049 Wirtschaftsgeschichte;502049 Economic history;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502050 Wirtschaftsinformatik;502050 Business informatics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502051 Wirtschaftsstatistik;502051 Economic statistics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502052 Betriebswirtschaftslehre;502052 Business administration;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502053 Volkswirtschaftslehre;502053 Economics;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;502054 Entrepreneurship;502054 Entrepreneurship;5 - SOZIALWISSENSCHAFTEN/502 Wirtschaftswissenschaften/5020 Wirtschaftswissenschaften
+ÖFOS;503 Erziehungswissenschaften;503 Erziehungswissenschaften;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5030 Erziehungswissenschaften;5030 Erziehungswissenschaften;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften
+ÖFOS;503001 Allgemeine PÖdagogik;503001 General education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503002 Angewandte PÖdagogik;503002 Applied education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503003 Begabungsforschung;503003 Talent research;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503004 Berufskunde;503004 Vocational studies;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503005 BerufspÖdagogik;503005 Vocational education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503006 Bildungsforschung;503006 Educational research;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503007 Didaktik;503007 Didactics;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503008 E-Learning;503008 E-learning;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503009 Erwachsenenbildung;503009 Adult education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503010 Fachdidaktik Agrarwissenschaften, VeterinÖrmedizin;503010 Subject didactics of agricultural sciences, veterinary medicine;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503011 Fachdidaktik Geisteswissenschaften;503011 Subject didactics of humanities;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503012 Fachdidaktik Humanmedizin, Gesundheitswissenschaften;503012 Subject didactics of human medicine and health sciences;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503013 Fachdidaktik Naturwissenschaften;503013 Subject didactics of natural sciences;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503014 Fachdidaktik Sozialwissenschaften;503014 Subject didactics of social sciences;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503015 Fachdidaktik Technische Wissenschaften;503015 Subject didactics of technical sciences;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503016 FreizeitpÖdagogik;503016 Leisure education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503017 Geschichte der PÖdagogik;503017 History of education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503018 Hochschuldidaktik;503018 University didactics;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503019 KunstpÖdagogik;503019 Art education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503020 MedienpÖdagogik;503020 Media education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503021 MuseumspÖdagogik;503021 Museum education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503022 MusikpÖdagogik;503022 Music education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503023 Qualifikationsforschung;503023 Qualification research;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503024 ReligionspÖdagogik;503024 Religious education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503025 SchulpÖdagogik;503025 School pedagogy;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503026 Sonder- und HeilpÖdagogik;503026 Orthopaedagogy;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503027 SozialpÖdagogik;503027 Social pedagogy;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503028 SportpÖdagogik;503028 Sport pedagogy;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503029 Sprachlehrforschung;503029 Language teaching research;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503030 WirtschaftspÖdagogik;503030 Business education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503031 ElementarpÖdagogik;503031 Elementary pedagogy;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503032 Lehr- und Lernforschung;503032 Teaching and learning research;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;503033 Politische Bildung;503033 Political education;5 - SOZIALWISSENSCHAFTEN/503 Erziehungswissenschaften/5030 Erziehungswissenschaften
+ÖFOS;504 Soziologie;504 Soziologie;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5040 Soziologie;5040 Soziologie;5 - SOZIALWISSENSCHAFTEN/504 Soziologie
+ÖFOS;504001 Allgemeine Soziologie;504001 General sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504002 Arbeitssoziologie;504002 Sociology of work;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504003 Armut und soziale Ausgrenzung;504003 Poverty and social exclusion;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504004 BevÖlkerungsstatistik;504004 Population statistics;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504005 Bildungssoziologie;504005 Educational sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504006 Demographie;504006 Demography;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504007 Empirische Sozialforschung;504007 Empirical social research;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504008 Ethnographie;504008 Ethnography;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504009 Ethnologie;504009 Ethnology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504010 EuropÖische Ethnologie;504010 European ethnology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504011 Familienforschung;504011 Genealogy;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504012 Freizeitforschung;504012 Leisure research;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504013 Gender Mainstreaming;504013 Gender mainstreaming;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504014 Gender Studies;504014 Gender studies;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504015 Geschichte der Soziologie;504015 History of sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504016 Jugendsoziologie;504016 Sociology of youth;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504017 Kulturanthropologie;504017 Cultural anthropology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504018 Kultursoziologie;504018 Sociology of culture;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504019 Mediensoziologie;504019 Media sociology ;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504020 Medizinsoziologie;504020 Medical sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504021 Migrationsforschung;504021 Migration research;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504022 Musiksoziologie;504022 Music sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504023 Politische Soziologie;504023 Political sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504024 Rechtssoziologie;504024 Sociology of law;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504025 Religionssoziologie;504025 Sociology of religion;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504026 Sozialgeschichte;504026 Social history;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504027 Spezielle Soziologie;504027 Special sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504028 Techniksoziologie;504028 Sociology of technology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504029 Umweltsoziologie;504029 Environmental sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;504030 Wirtschaftssoziologie;504030 Economic sociology;5 - SOZIALWISSENSCHAFTEN/504 Soziologie/5040 Soziologie
+ÖFOS;505 Rechtswissenschaften;505 Rechtswissenschaften;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5050 Rechtswissenschaften;5050 Rechtswissenschaften;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften
+ÖFOS;505001 Arbeitsrecht;505001 Labour law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505002 Datenschutz;505002 Data protection;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505003 Europarecht;505003 European law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505004 Finanzrecht;505004 Financial law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505005 Geistiges Eigentum;505005 Intellectual property;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505006 Grundrechte;505006 Fundamental rights;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505007 Insolvenzrecht;505007 Insolvency law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505008 Kriminologie;505008 Criminology;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505009 Mediation;505009 Mediation;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505010 Medizinrecht;505010 Medical law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505011 Menschenrechte;505011 Human rights;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505012 Öffentliches Recht;505012 Public law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505013 Privatrecht;505013 Private law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505014 Rechtsgeschichte;505014 Legal history;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505015 Rechtsinformatik;505015 Legal informatics;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505016 Rechtstheorie;505016 Legal theory;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505017 Rechtsvergleichung;505017 Comparative law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505018 Religionsrecht;505018 Religious law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505019 RÖmisches Recht;505019 Roman law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505020 Sozialrecht;505020 Social law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505021 Staatsrecht;505021 Constitutional law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505022 Steuerrecht;505022 Tax law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505023 Strafprozessrecht;505023 Criminal procedural law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505024 Strafrecht;505024 Criminal law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505025 Unternehmensrecht;505025 Business law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505026 Verfassungsrecht;505026 Constitutional law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505027 Verwaltungslehre;505027 Administrative studies;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505028 Verwaltungsrecht;505028 Administrative law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505029 VÖlkerrecht;505029 International law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505030 Wirtschaftsrecht;505030 Commercial law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505031 Zivilrecht;505031 Civil law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505032 Zivilverfahrensrecht;505032 Civil procedure law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505033 Antidiskriminierungsrecht;505033 Anti-discrimination law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505034 Bank- und Kapitalmarktrecht;505034 Banking and capital market law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505035 Baurecht;505035 Building law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505036 Energierecht;505036 Energy law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505037 Familien- und Erbrecht;505037 Family and inheritance law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505038 Marken- und Patentrecht;505038 Trademark and patent law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505039 Medienrecht;505039 Media law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505040 Sportrecht;505040 Sports law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505041 Umweltrecht;505041 Environmental law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505042 Verkehrsrecht;505042 Traffic law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505043 Wettbewerbs- und Kartellrecht;505043 Competition and antitrust law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505044 Gesellschaftsrecht;505044 Corporate law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505045 Hochschulrecht;505045 Higher education law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;505046 Luft- und Weltraumrecht;505046 Air and space law;5 - SOZIALWISSENSCHAFTEN/505 Rechtswissenschaften/5050 Rechtswissenschaften
+ÖFOS;506 Politikwissenschaften;506 Politikwissenschaften;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5060 Politikwissenschaften;5060 Politikwissenschaften;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften
+ÖFOS;506001 Allgemeine Staatslehre;506001 General theory of the state;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506002 E-Government;506002 E-government;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506003 Entwicklungspolitik;506003 Development policy;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506004 EuropÖische Integration;506004 European integration;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506005 Forschungspolitik;506005 Research policy;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506006 Friedensforschung;506006 Peace studies;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506007 Internationale Beziehungen;506007 International relations;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506008 Konfliktforschung;506008 Conflict research;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506009 Organisationstheorie;506009 Organisation theory;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506010 Politikfeldanalyse;506010 Policy analysis;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506011 Politische Geschichte;506011 Political history;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506012 Politische Systeme;506012 Political systems;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506013 Politische Theorie;506013 Political theory;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;506014 Vergleichende Politikwissenschaft;506014 Comparative politics;5 - SOZIALWISSENSCHAFTEN/506 Politikwissenschaften/5060 Politikwissenschaften
+ÖFOS;507 Humangeographie, Regionale Geographie, Raumplanung;507 Humangeographie, Regionale Geographie, Raumplanung;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5070 Humangeographie, Regionale Geographie, Raumplanung;5070 Humangeographie, Regionale Geographie, Raumplanung;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507001 Angewandte Geographie;507001 Applied geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507002 BevÖlkerungsgeographie;507002 Population geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507003 Geoinformatik;507003 Geoinformatics;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507004 Geschichte der Geographie;507004 History of geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507005 Kulturgeographie;507005 Cultural geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507006 Kulturlandschaftsforschung;507006 Cultural landscape research;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507007 Landesplanung;507007 Land use planning;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507008 Landschaftsplanung;507008 Landscape planning;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507009 Örtliche Raumplanung;507009 Regional planning;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507010 Politische Geographie;507010 Political geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507011 Raumforschung;507011 Spatial research;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507012 Raumordnung;507012 Spatial structure;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507013 Regionale Geographie;507013 Regional geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507014 Regionalentwicklung;507014 Regional development;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507015 Regionalforschung;507015 Regional research;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507016 RegionalÖkonomie;507016 Regional economy;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507017 Sozialgeographie;507017 Social geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507018 Stadt-, Dorferneuerung;507018 Urban and village renewal;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507019 Stadtentwicklungsplanung;507019 Urban development planning;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507020 Stadtforschung;507020 Urbanism;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507021 Stadtgeschichte;507021 Urban history;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507022 Stadtplanung;507022 Urban planning;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507023 Standortentwicklung;507023 Location development;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507024 Umweltpolitik;507024 Environmental policy;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507025 Verkehrsplanung;507025 Transport planning;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507026 Wirtschaftsgeographie;507026 Economic geography;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;507027 Nachhaltige Stadtentwicklung;507027 Sustainable urban development;5 - SOZIALWISSENSCHAFTEN/507 Humangeographie, Regionale Geographie, Raumplanung/5070 Humangeographie, Regionale Geographie, Raumplanung
+ÖFOS;508 Medien- und Kommunikationswissenschaften;508 Medien- und Kommunikationswissenschaften;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5080 Medien- und Kommunikationswissenschaften;5080 Medien- und Kommunikationswissenschaften;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften
+ÖFOS;508001 Archivwesen;508001 Archive studies;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508002 Audiovisuelle Medien;508002 Audiovisual media;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508003 Bibliothekswissenschaft;508003 Library science;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508004 Interkulturelle Kommunikation;508004 Intercultural communication;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508005 Journalistik;508005 Journalism;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508006 Kommunikationstheorie;508006 Communication theory;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508007 Kommunikationswissenschaft;508007 Communication science;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508008 Medienanalyse;508008 Media analysis;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508009 Medienforschung;508009 Media research;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508010 Mediengeschichte;508010 Media history;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508011 Medientheorie;508011 Media theory;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508012 Medienwirkungsforschung;508012 Media impact studies;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508013 Public Relations;508013 Public relations;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508014 Publizistik;508014 Journalism;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508015 Wirtschaftskommunikation;508015 Business communication;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;508016 Wissenschaftskommunikation;508016 Science communication;5 - SOZIALWISSENSCHAFTEN/508 Medien- und Kommunikationswissenschaften/5080 Medien- und Kommunikationswissenschaften
+ÖFOS;509 Andere Sozialwissenschaften;509 Andere Sozialwissenschaften;5 - SOZIALWISSENSCHAFTEN
+ÖFOS;5090 Andere Sozialwissenschaften;5090 Andere Sozialwissenschaften;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften
+ÖFOS;509001 Aktionsforschung;509001 Action research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509002 Disability Studies;509002 Disability studies;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509003 Entwicklungszusammenarbeit;509003 Development cooperation;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509004 Evaluationsforschung;509004 Evaluation research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509005 Gerontologie;509005 Gerontology;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509006 Geschichte der Sozialwissenschaften;509006 History of social sciences;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509007 Graffiti-Forschung;509007 Graffiti research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509008 Kinderforschung, Jugendforschung;509008 Child research, youth research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509009 MilitÖrstrategische Forschung;509009 Military strategic research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509010 Minderheitenforschung;509010 Minority research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509011 Organisationsentwicklung;509011 Organisational development;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509012 Sozialpolitik;509012 Social policy;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509013 Sozialstatistik;509013 Social statistics;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509014 Spielforschung;509014 Game research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509015 Unfallforschung;509015 Accident research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509016 Verkehrswirtschaft;509016 Transport economics;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509017 Wissenschaftsforschung;509017 Social studies of science;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509018 Wissensmanagement;509018 Knowledge management;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509019 Zukunftsforschung;509019 Futurology;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509020 MilitÖrethik;509020 Military ethics;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509021 MilitÖrwissenschaft;509021 Military science;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509022 Polemologie;509022 Polemology;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;509023 Entwicklungsforschung;509023 Development research;5 - SOZIALWISSENSCHAFTEN/509 Andere Sozialwissenschaften/5090 Andere Sozialwissenschaften
+ÖFOS;6 - GEISTESWISSENSCHAFTEN;6 - GEISTESWISSENSCHAFTEN;
+ÖFOS;601 Geschichte, ArchÖologie;601 Geschichte, ArchÖologie;6 - GEISTESWISSENSCHAFTEN
+ÖFOS;6010 Geschichte, ArchÖologie;6010 Geschichte, ArchÖologie;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie
+ÖFOS;601001 Alte Geschichte;601001 Ancient history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601002 Altertumskunde;601002 Classical studies;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601003 ArchÖologie;601003 Archaeology;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601004 Epigraphik;601004 Epigraphy;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601005 EuropÖische Geschichte;601005 European history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601006 FrÖhgeschichte;601006 Early history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601007 Geschichtliche Landeskunde;601007 Historical regional studies;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601008 Geschichtswissenschaft;601008 Science of history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601009 Historische Hilfswissenschaften;601009 Historical auxiliary sciences;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601010 Klassische ArchÖologie;601010 Classical archaeology;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601011 Kodikologie;601011 Codicology;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601012 Mittelalterliche Geschichte;601012 Medieval history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601013 Museologie;601013 Museology;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601014 Neuere Geschichte;601014 Modern history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601015 Numismatik;601015 Numismatics;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601016 Österreichische Geschichte;601016 Austrian history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601017 PalÖographie;601017 Palaeography;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601018 Papyrologie;601018 Papyrology;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601019 Quellenkunde;601019 Source studies;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601020 Regionalgeschichte;601020 Regional history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601021 Urgeschichte;601021 Prehistory;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601022 Zeitgeschichte;601022 Contemporary history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;601023 Globalgeschichte;601023 Global history;6 - GEISTESWISSENSCHAFTEN/601 Geschichte, ArchÖologie/6010 Geschichte, ArchÖologie
+ÖFOS;602 Sprach- und Literaturwissenschaften;602 Sprach- und Literaturwissenschaften;6 - GEISTESWISSENSCHAFTEN
+ÖFOS;6020 Sprach- und Literaturwissenschaften;6020 Sprach- und Literaturwissenschaften;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften
+ÖFOS;602001 Afrikanistik;602001 African studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602002 Ögyptologie;602002 Egyptology;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602003 Allgemeine Literaturwissenschaft;602003 General literature studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602004 Allgemeine Sprachwissenschaft;602004 General linguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602005 Amerikanistik;602005 American studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602006 Angewandte Literaturwissenschaft;602006 Applied literature studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602007 Angewandte Sprachwissenschaft;602007 Applied linguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602008 Anglistik;602008 English studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602009 Arabistik;602009 Arabic studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602010 Byzantinistik;602010 Byzantine studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602011 Computerlinguistik;602011 Computational linguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602012 Finno-Ugristik;602012 Finno-Ugrian studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602013 GebÖrdensprachforschung;602013 Sign language research;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602014 Germanistik;602014 German studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602015 GrÖzistik;602015 Greek studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602016 Hermeneutik;602016 Hermeneutics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602017 Indogermanistik;602017 Indo-European studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602018 Indologie;602018 Indology;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602019 Iranistik;602019 Iranian studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602020 Japanologie;602020 Japanese studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602021 Jiddistik;602021 Yiddish studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602022 Judaistik;602022 Jewish studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602023 Keltologie;602023 Celtic studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602024 Klassische Philologie;602024 Classical philology;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602025 Klinische Linguistik;602025 Clinical linguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602026 Kognitive Linguistik;602026 Cognitive linguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602027 Koptologie;602027 Coptic studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602028 Koreanistik;602028 Korean studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602029 Latinistik;602029 Latin studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602030 Lexikographie;602030 Lexicography;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602031 Literaturgeschichte;602031 History of literature;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602032 Mundartforschung;602032 Dialectology;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602033 Namenforschung;602033 Onomastics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602034 Nederlandistik;602034 Dutch studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602035 NeogrÖzistik;602035 Modern Greek studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602036 Neurolinguistik;602036 Neurolinguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602037 Orientalistik;602037 Oriental studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602038 Phonetik;602038 Phonetics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602039 Phonologie;602039 Phonology;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602040 Psycholinguistik;602040 Psycholinguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602041 Rhetorik;602041 Rhetoric;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602042 Romanistik;602042 Romance studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602043 Semiotik;602043 Semiotics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602044 Semitistik;602044 Semitic studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602045 Sinologie;602045 Sinology;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602046 Skandinavistik;602046 Scandinavian studies ;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602047 Slawistik;602047 Slavonic studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602048 Soziolinguistik;602048 Sociolinguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602049 Terminologielehre;602049 Terminology science;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602050 Tibetologie;602050 Tibetan studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602051 Translationswissenschaft;602051 Translation studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602052 Turkologie;602052 Turkish studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602053 Vergleichende Literaturwissenschaft;602053 Comparative literature studies;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602054 Vergleichende Sprachwissenschaft;602054 Comparative linguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;602055 Patholinguistik;602055 Patholinguistics;6 - GEISTESWISSENSCHAFTEN/602 Sprach- und Literaturwissenschaften/6020 Sprach- und Literaturwissenschaften
+ÖFOS;603 Philosophie, Ethik, Religion;603 Philosophie, Ethik, Religion;6 - GEISTESWISSENSCHAFTEN
+ÖFOS;6031 Philosophie, Ethik;6031 Philosophie, Ethik;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion
+ÖFOS;603101 Östhetik;603101 Aesthetics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603102 Erkenntnistheorie;603102 Epistemology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603103 Ethik;603103 Ethics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603104 Geschichte der Philosophie;603104 History of philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603105 Geschichtsphilosophie;603105 Philosophy of history;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603106 Hermeneutik;603106 Hermeneutics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603107 Ideologiekritik;603107 Critique of ideology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603108 Kulturphilosophie;603108 Cultural philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603109 Logik;603109 Logic;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603110 Metaphysik;603110 Metaphysics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603111 Naturphilosophie;603111 Natural philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603112 PhÖnomenologie;603112 Phenomenology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603113 Philosophie;603113 Philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603114 Philosophie des Geistes;603114 Philosophy of mind;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603115 Philosophische Anthropologie;603115 Philosophical anthropology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603116 Politische Philosophie;603116 Political philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603117 Rechtsphilosophie;603117 Philosophy of law;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603118 Religionsphilosophie;603118 Philosophy of religion;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603119 Sozialphilosophie;603119 Social philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603120 Sprachphilosophie;603120 Philosophy of language;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603121 Staatsphilosophie;603121 Political philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603122 Technikphilosophie;603122 Philosophy of technology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603123 Wissenschaftsgeschichte;603123 History of science;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603124 Wissenschaftstheorie;603124 Theory of science;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;603125 Metaethik;603125 Metaethics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6031 Philosophie, Ethik
+ÖFOS;6032 Theologie;6032 Theologie;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion
+ÖFOS;603201 Alttestamentliche Bibelwissenschaft;603201 Old Testament studies;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603202 Christliche ArchÖologie;603202 Christian archaeology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603203 Christliche Philosophie;603203 Christian philosophy;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603204 Christliche Soziallehre;603204 Christian social doctrine;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603205 Dogmatische Theologie;603205 Dogmatic theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603206 Fundamentaltheologie;603206 Fundamental theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603207 Homiletik;603207 Homiletics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603208 Interkulturelle Theologie;603208 Intercultural theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603209 Kanonisches Recht;603209 Canon law;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603210 Katechetik;603210 Catechetics;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603211 Kirchengeschichte;603211 Church history;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603212 Liturgiewissenschaft;603212 Liturgical studies;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603213 Moraltheologie;603213 Moral theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603214 Neutestamentliche Bibelwissenschaft;603214 New Testament studies;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603215 Ökumenische Theologie;603215 Ecumenical theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603216 Pastoralpsychologie;603216 Pastoral psychology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603217 Pastoraltheologie;603217 Pastoral theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603218 Patrologie;603218 Patrology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603219 Praktische Theologie;603219 Practical theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603220 Seelsorge;603220 Pastoral care;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603221 Spirituelle Theologie;603221 Spiritual theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603222 Systematische Theologie;603222 Systematic theology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;603223 Theologische Anthropologie;603223 Theological anthropology;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6032 Theologie
+ÖFOS;6039 Sonstige Religion, Religionswissenschaften;6039 Sonstige Religion, Religionswissenschaften;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion
+ÖFOS;603901 Atheismus;603901 Atheism;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603902 Buddhismus;603902 Buddhism;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603903 Exegese;603903 Exegesis;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603904 Hinduismus;603904 Hinduism ;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603905 Islam;603905 Islam;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603906 JÖdische Religion;603906 Jewish religion;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603907 Kirchenrecht;603907 Church law;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603908 Religionsgeschichte;603908 History of religion;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603909 Religionswissenschaft;603909 Religious studies;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;603910 Religionspsychologie;603910 Psychology of religion;6 - GEISTESWISSENSCHAFTEN/603 Philosophie, Ethik, Religion/6039 Sonstige Religion, Religionswissenschaften
+ÖFOS;604 Kunstwissenschaften;604 Kunstwissenschaften;6 - GEISTESWISSENSCHAFTEN
+ÖFOS;6040 Kunstwissenschaften;6040 Kunstwissenschaften;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften
+ÖFOS;604001 Angewandte Kunst;604001 Applied arts;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604002 Architektonische Gestaltung;604002 Architectural design;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604003 AuffÖhrungspraxis;604003 Performance practice;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604004 Bildende Kunst;604004 Fine arts;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604005 BÖhnengestaltung;604005 Stage design;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604006 Darstellende Kunst;604006 Performing arts;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604007 Denkmalpflege;604007 Historic preservation;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604008 Design;604008 Design;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604009 Ethnomusikologie;604009 Ethnomusicology;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604010 Filmgestaltung;604010 Film design;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604011 Filmwissenschaft;604011 Film studies;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604012 Fotografie;604012 Photography;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604013 Gartenkunst;604013 Garden art;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604014 Gesang;604014 Singing;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604015 Industrial Design;604015 Industrial design;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604016 Jazzforschung;604016 Jazz studies;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604017 Kirchenmusik;604017 Church music;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604018 Konservierung und Restaurierung;604018 Conservation, restoration;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604019 Kunstgeschichte;604019 Art history;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604020 Kunsttheorie;604020 Art theory;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604021 Medienkunst;604021 Media arts;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604022 Musikgeschichte;604022 Music history;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604023 Musiktheorie;604023 Music theory;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604024 Musikwissenschaft;604024 Musicology;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604025 Popularmusikforschung;604025 Popular music studies;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604026 Raumkunst;604026 Spatial arts;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604027 Szenographie;604027 Scenography;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604028 Tanzwissenschaft;604028 Dance studies;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604029 Theaterwissenschaft;604029 Theatre studies;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604030 Volksmusikforschung;604030 Folk music research;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604031 Historische Technologie;604031 Historical technology;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604032 Instrumentalstudien;604032 Instrumental studies;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604033 Komposition;604033 Composition;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604034 Musiktheater;604034 Music theatre;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604035 Orgelforschung;604035 Organ research;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;604036 Provenienzforschung;604036 Provenance research;6 - GEISTESWISSENSCHAFTEN/604 Kunstwissenschaften/6040 Kunstwissenschaften
+ÖFOS;605 Andere Geisteswissenschaften;605 Andere Geisteswissenschaften;6 - GEISTESWISSENSCHAFTEN
+ÖFOS;6050 Andere Geisteswissenschaften;6050 Andere Geisteswissenschaften;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften
+ÖFOS;605001 Geschichte der Geisteswissenschaften;605001 History of humanities;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
+ÖFOS;605002 Kulturgeschichte;605002 Cultural history;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
+ÖFOS;605003 KulturÖkonomie;605003 Cultural economics;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
+ÖFOS;605004 Kulturwissenschaft;605004 Cultural studies;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
+ÖFOS;605005 Publikumsforschung;605005 Audience research;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
+ÖFOS;605006 Kulturmanagement;605006 Cultural management;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
+ÖFOS;605007 Digital Humanities;605007 Digital humanities;6 - GEISTESWISSENSCHAFTEN/605 Andere Geisteswissenschaften/6050 Andere Geisteswissenschaften
